@@ -17,3 +17,6 @@ Segue a lista dos repositórios
 | Git4Noobs - Fluxo básico para iniciantes | danielhe4rt                                    | [git4noobs](https://github.com/danielhe4rt/git4noobs)    |
 | Linux4Noobs - Primeiros passos           | lucashe4rt, thespecko, happy                   | [linux4noobs](https://github.com/lucashe4rt/linux4noobs) |
 | cpp4noobs - Introdução ao C++            | novout, PoorlyDefinedBehaviour, thiago-rezende | [cpp4noobs](https://github.com/Novout/cpp4noobs)         |
+| vue4noobs - Introdução ao Vue            | NovoutT | [vue4noobs](https://github.com/Novout/vue4noobs/)         |
+| windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
+| windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
