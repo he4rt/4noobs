@@ -20,4 +20,4 @@ Segue a lista dos repositórios
 | vue4noobs - Introdução ao Vue            | NovoutT | [vue4noobs](https://github.com/Novout/vue4noobs/)         |
 | windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
 | c4noobs - Introdução ao C            | jpaulohe4rt, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/)         |
-| ArchLinux4Noobs - Guia de instalação do ArchLinux  | jpaulohe4rt, Paulo Rievrs | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
+| ArchLinux4Noobs - Guia de instalação do ArchLinux  | LucasHe4rt | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
