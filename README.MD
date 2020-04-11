@@ -18,6 +18,6 @@ Segue a lista dos repositórios
 | Linux4Noobs - Primeiros passos           | lucashe4rt, thespecko, happy                   | [linux4noobs](https://github.com/lucashe4rt/linux4noobs) |
 | cpp4noobs - Introdução ao C++            | novout, PoorlyDefinedBehaviour, thiago-rezende | [cpp4noobs](https://github.com/Novout/cpp4noobs)         |
 | vue4noobs - Introdução ao Vue            | NovoutT | [vue4noobs](https://github.com/Novout/vue4noobs/)         |
-| windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
+| windows4noobs - Tutorial De Windows para iniciantes. | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
 | c4noobs - Introdução ao C            | jpaulohe4rt, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/)         |
 | ArchLinux4Noobs - Guia de instalação do ArchLinux  | LucasHe4rt | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
