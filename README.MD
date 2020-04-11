@@ -19,4 +19,4 @@ Segue a lista dos repositórios
 | cpp4noobs - Introdução ao C++            | novout, PoorlyDefinedBehaviour, thiago-rezende | [cpp4noobs](https://github.com/Novout/cpp4noobs)         |
 | vue4noobs - Introdução ao Vue            | NovoutT | [vue4noobs](https://github.com/Novout/vue4noobs/)         |
 | windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
-| windows4noobs - Introdução ao Vue            | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
+| c4noobs - Introdução ao C            | jpaulohe4rt, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/)         |
