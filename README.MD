@@ -22,3 +22,4 @@ Segue a lista dos repositórios
 | c4noobs - Introdução ao C            | jpaulohe4rt, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/)         |
 | ArchLinux4Noobs - Guia de instalação do ArchLinux  | LucasHe4rt | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
 | Java4Noobs - Introdução ao Java | Paulo Rievrs | [Java4Noobs](https://github.com/paulorievrs/java4noobs) |
+| Elixir4Noobs - Introdução ao Elixir | aleDsz | [elixir4noobs](https://github.com/aleDsz/elixir4noobs) |
