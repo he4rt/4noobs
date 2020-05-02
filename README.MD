@@ -23,3 +23,5 @@ Segue a lista dos repositórios
 | ArchLinux4Noobs - Guia de instalação do ArchLinux  | LucasHe4rt | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
 | Java4Noobs - Introdução ao Java | Paulo Rievrs | [Java4Noobs](https://github.com/paulorievrs/java4noobs) |
 | Elixir4Noobs - Introdução ao Elixir | aleDsz | [elixir4noobs](https://github.com/aleDsz/elixir4noobs) |
+| ux4Noobs - Introdução ao UX | Felipe Gabriel (7K) | [ux4noobs](https://github.com/IUX7K/ux4noobs/) |
+
