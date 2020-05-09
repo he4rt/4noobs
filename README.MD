@@ -24,4 +24,6 @@ Segue a lista dos repositórios
 | Java4Noobs - Introdução ao Java | Paulo Rievrs | [Java4Noobs](https://github.com/paulorievrs/java4noobs) |
 | Elixir4Noobs - Introdução ao Elixir | aleDsz | [elixir4noobs](https://github.com/aleDsz/elixir4noobs) |
 | ux4Noobs - Introdução ao UX | 7K | [ux4noobs](https://github.com/IUX7K/ux4noobs/) |
+| c4noobs - Introdução ao C | João Paulo, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/) |
+| vim4noobs - Introdução ao Vim :wq | hellowluan | [vim4noobs](https://github.com/hellowluan/vim4noobs) |
 
