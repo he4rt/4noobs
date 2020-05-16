@@ -25,4 +25,5 @@ Segue a lista dos repositórios
 | ux4Noobs - Introdução ao UX | 7K | [ux4noobs](https://github.com/IUX7K/ux4noobs/) |
 | c4noobs - Introdução ao C | João Paulo, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/) |
 | vim4noobs - Introdução ao Vim :wq | hellowluan | [vim4noobs](https://github.com/hellowluan/vim4noobs) |
+| ruby4noobs - Introdução ao Ruby | Ederson Ferreira | [ruby4noobs](https://github.com/edersonferreira/ruby4noobs) |
 
