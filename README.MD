@@ -29,3 +29,5 @@ Segue a lista dos repositórios
 | rails4noobs - Introdução ao Ruby on Rails | Ederson Ferreira | [rails4noobs](https://github.com/edersonferreira/rails4noobs) |
 | NextJs4noobs - Introdução ao NextJs | gaviusking | [NextJs4noobs](https://github.com/gaviusking/NextJs4noobs) |
 | Markdown4Noobs - Introdução ao Markdown | jpaulohe4rt, dsm, freazesss e EduardoFerro | [Markdown4Noobs](https://github.com/jpaulohe4rt/markdown4noobs) |
+| flask4noobs - Introdução ao Flask | Gustavo Lins | [flask4noobs](https://github.com/freazesss/flask4noobs) |
+
