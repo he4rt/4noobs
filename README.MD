@@ -15,15 +15,46 @@
 
 O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade!
 
-## 📌 Categorias
+### 💡 Linguagens de programação
 
-| Categoria | Conteúdos | Link |
-| --- | --- | --- |
-| 💡 Linguagens de programação | 5 | [Clique aqui ➡️](/contents/linguagens-de-programacao/README.md) |
-| 📦 Frameworks | 4 | [Clique aqui ➡️](/contents/frameworks/README.md) |
-| 🔧 Ferramentas | 3 | [Clique aqui ➡️](/contents/ferramentas/README.md) |
-| 💻 Sistemas operacionais | 3 | [Clique aqui ➡️](/contents/sistemas-operacionais/README.md) |
-| 🎨 Design | 1 | [Clique aqui ➡️](/contents/design/README.md) |
+| Projeto | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| cpp4noobs | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [Giovane Cardoso](https://github.com/novout) - [Thiago Rezende](https://github.com/thiago-rezende) - [PoorlyDefinedBehaviour](https://github.com/PoorlyDefinedBehaviour) | [Clique aqui ➡️](https://github.com/Novout/cpp4noobs) |
+| Java4Noobs | Tutorial De Java para iniciantes na Linguagem. | [Paulo Rievrs Olviera](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/paulorievrs/java4noobs) |
+| Elixir4Noobs | Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional. | [Alexandre de Souza](https://github.com/aleDsz) | [Clique aqui ➡️](https://github.com/aleDsz/elixir4noobs) |
+| c4noobs | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
+| ruby4noobs | É um tutorial dedicado ao ensino da Linguagem de programação Ruby, que originou um dos Frameworks Web mais conhecidos, o Ruby on Rails! | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/ruby4noobs) |
+
+### 📦 Frameworks
+
+| Projeto | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| vue4noobs | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
+| rails4noobs | Introdução ao Ruby on Rails. | [Ederson Ferreira](https://github.com/edersonferreira/) | [Clique aqui ➡️](https://github.com/edersonferreira/rails4noobs) |
+| NextJs4noobs | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/gaviusking/) | [Clique aqui ➡️](https://github.com/gaviusking/NextJs4noobs) |
+| flask4noobs | Introdução ao Flask | [Gustavo Lins](https://github.com/freazesss/) | [Clique aqui ➡️](https://github.com/freazesss/flask4noobs) |
+
+### 🔧 Ferramenta
+
+| Projeto | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Git4Noobs | A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo. | [Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/git4noobs) |
+| vim4noobs | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
+| Markdown4Noobs | É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Daniel Moura](https://twitter.com/dsm_uix) - [Gustavo Lins](https://github.com/freazesss) - [Eduardo Cabral](https://github.com/ferroeduardo) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/markdown4noobs) |
+
+### 💻 Sistemas operacionais
+
+| Projeto | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Linux4Noobs | Tutorial De Linux para iniciantes em Programação. | [Francisco Paradella](https://github.com/Happyzinho) - [Lucas Silva](https://github.com/LucasHe4rt) - [Marco Antonio](https://github.com/marcopandolfo) | [Clique aqui ➡️](https://github.com/lucashe4rt/linux4noobs) |
+| windows4noobs | Tutorial De Windows para iniciantes. | [Vitor Souza](https://github.com/vsouzaalmeida) | [Clique aqui ➡️](https://github.com/vsouzaalmeida/windows4noobs) |
+| ArchLinux4Noobs | Tutorial De Instalação da distribuição ArchLinux. | [Lucas Silva](https://github.com/LucasHe4rt) | [Clique aqui ➡️](https://github.com/LucasHe4rt/ArchLinux4noobs) |
+
+### 🎨 Design
+
+| Projeto | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| UX4Noobs | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos. | [Felipe Gabriel](https://twitter.com/FelipeG7K) | [Clique aqui ➡️](https://github.com/IUX7K/ux4noobs/) |
 
 > Última atualização: 01/06/2020
 
