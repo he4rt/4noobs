@@ -19,11 +19,11 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Categoria | Conteúdos | Link |
 | --- | --- | --- |
-| 💡 Linguagens de programação | 5 | [Clique aqui ➡️](/contents/linguagens-de-programacao) |
-| 📦 Frameworks | 4 | [Clique aqui ➡️](/contents/frameworks) |
-| 🔧 Ferramentas | 3 | [Clique aqui ➡️](/contents/ferramentas) |
-| 💻 Sistemas operacionais | 3 | [Clique aqui ➡️](/contents/sistemas-operacionais) |
-| 🎨 Design | 1 | [Clique aqui ➡️](/contents/design) |
+| 💡 Linguagens de programação | 5 | [Clique aqui ➡️](/contents/linguagens-de-programacao/README.md) |
+| 📦 Frameworks | 4 | [Clique aqui ➡️](/contents/frameworks/README.md) |
+| 🔧 Ferramentas | 3 | [Clique aqui ➡️](/contents/ferramentas/README.md) |
+| 💻 Sistemas operacionais | 3 | [Clique aqui ➡️](/contents/sistemas-operacionais/README.md) |
+| 🎨 Design | 1 | [Clique aqui ➡️](/contents/design/README.md) |
 
 > Última atualização: 01/06/2020
 
