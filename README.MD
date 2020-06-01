@@ -3,31 +3,30 @@
     <img src="https://i.imgur.com/gQNRPaj.png" width="100%" alt="Logo da He4rtDevs">
   </a>
 </p>
+<h1 align="center">He4rtLabs - Série 4Noobs</h1>
 
-# He4rtLabs - Série 4Noobs
+<p align="center">
+  <a href="https://twitter.com/He4rtDevs">Twitter</a>
+  · 
+  <a href="https://discord.gg/7UJDgBG">Comunidade</a>
+  ·
+  <a href="https://instagram.com/heartdevs">Instagram</a>
+</p>
 
 O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade!
 
-Vários repositórios serão adicionados na medida que forem sendo desenvolvidos e entregue um material estável e de fácil entendimento pros iniciantes (aka Noobs).
+## 📌 Categorias
 
-Segue a lista dos repositórios
+| Categoria | Conteúdos | Link |
+| --- | --- | --- |
+| 💡 Linguagens de programação | 5 | [Clique aqui ➡️](/contents/linguagens-de-programacao) |
+| 📦 Frameworks | 4 | [Clique aqui ➡️](/contents/frameworks) |
+| 🔧 Ferramentas | 3 | [Clique aqui ➡️](/contents/ferramentas) |
+| 💻 Sistemas operacionais | 3 | [Clique aqui ➡️](/contents/sistemas-operacionais) |
+| 🎨 Design | 1 | [Clique aqui ➡️](/contents/design) |
 
-| Projeto                                  | Desenvolvedores                                | Link                                                     |
-| ---------------------------------------- | ---------------------------------------------- | -------------------------------------------------------- |
-| Git4Noobs - Fluxo básico para iniciantes | danielhe4rt                                    | [git4noobs](https://github.com/danielhe4rt/git4noobs)    |
-| Linux4Noobs - Primeiros passos           | lucashe4rt, thespecko, happy                   | [linux4noobs](https://github.com/lucashe4rt/linux4noobs) |
-| cpp4noobs - Introdução ao C++            | novout, PoorlyDefinedBehaviour, thiago-rezende | [cpp4noobs](https://github.com/Novout/cpp4noobs)         |
-| vue4noobs - Introdução ao Vue            | NovoutT | [vue4noobs](https://github.com/Novout/vue4noobs/)         |
-| windows4noobs - Tutorial De Windows para iniciantes. | vsaHe4rt | [windows4noobs](https://github.com/vsouzaalmeida/windows4noobs)         |
-| ArchLinux4Noobs - Guia de instalação do ArchLinux  | LucasHe4rt | [ArchLinux4Noobs](https://github.com/LucasHe4rt/ArchLinux4noobs)         |
-| Java4Noobs - Introdução ao Java | Paulo Rievrs | [Java4Noobs](https://github.com/paulorievrs/java4noobs) |
-| Elixir4Noobs - Introdução ao Elixir | aleDsz | [elixir4noobs](https://github.com/aleDsz/elixir4noobs) |
-| ux4Noobs - Introdução ao UX | 7K | [ux4noobs](https://github.com/IUX7K/ux4noobs/) |
-| c4noobs - Introdução ao C | João Paulo, Paulo Rievrs | [c4noobs](https://github.com/jpaulohe4rt/c4noobs/) |
-| vim4noobs - Introdução ao Vim :wq | hellowluan | [vim4noobs](https://github.com/hellowluan/vim4noobs) |
-| ruby4noobs - Introdução ao Ruby | Ederson Ferreira | [ruby4noobs](https://github.com/edersonferreira/ruby4noobs) |
-| rails4noobs - Introdução ao Ruby on Rails | Ederson Ferreira | [rails4noobs](https://github.com/edersonferreira/rails4noobs) |
-| NextJs4noobs - Introdução ao NextJs | gaviusking | [NextJs4noobs](https://github.com/gaviusking/NextJs4noobs) |
-| Markdown4Noobs - Introdução ao Markdown | jpaulohe4rt, dsm, freazesss e EduardoFerro | [Markdown4Noobs](https://github.com/jpaulohe4rt/markdown4noobs) |
-| flask4noobs - Introdução ao Flask | Gustavo Lins | [flask4noobs](https://github.com/freazesss/flask4noobs) |
+> Última atualização: 01/06/2020
 
+---
+
+<p align="center"><strong> Da comunidade para a comunidade. 💜</strong></p>
