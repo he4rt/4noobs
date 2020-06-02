@@ -34,7 +34,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NextJs4noobs | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/gaviusking/) | [Clique aqui ➡️](https://github.com/gaviusking/NextJs4noobs) |
 | flask4noobs | Introdução ao Flask | [Gustavo Lins](https://github.com/freazesss/) | [Clique aqui ➡️](https://github.com/freazesss/flask4noobs) |
 
-### 🔧 Ferramenta
+### 🔧 Ferramentas
 
 | Projeto | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
