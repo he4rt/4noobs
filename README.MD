@@ -56,7 +56,9 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | UX4Noobs | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos. | [Felipe Gabriel](https://twitter.com/FelipeG7K) | [Clique aqui ➡️](https://github.com/IUX7K/ux4noobs/) |
 
-> Última atualização: 01/06/2020
+<a href="https://github.com/he4rt/4noobs/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
+</a>
 
 ---
 
