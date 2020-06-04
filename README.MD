@@ -24,6 +24,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Elixir4Noobs | Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional. | [Alexandre de Souza](https://github.com/aleDsz) | [Clique aqui ➡️](https://github.com/aleDsz/elixir4noobs) |
 | c4noobs | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
 | ruby4noobs | É um tutorial dedicado ao ensino da Linguagem de programação Ruby, que originou um dos Frameworks Web mais conhecidos, o Ruby on Rails! | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/ruby4noobs) |
+| Javascript4noobs | Tutorial de Javascript para iniciantes na linguagem. | [Thiago Della Noce](https://github.com/ThiagoDellaNoce) | [Clique aqui ➡️](https://github.com/ThiagoDellaNoce/javascript4noobs) |
 
 ### 📦 Frameworks
 
