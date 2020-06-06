@@ -42,6 +42,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Git4Noobs | A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo. | [Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/git4noobs) |
 | vim4noobs | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
 | Markdown4Noobs | É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Daniel Moura](https://twitter.com/dsm_uix) - [Gustavo Lins](https://github.com/freazesss) - [Eduardo Cabral](https://github.com/ferroeduardo) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/markdown4noobs) |
+| Zsh4Noobs | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 
 ### 💻 Sistemas operacionais
 
