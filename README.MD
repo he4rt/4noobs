@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://heartdevs.com" target="_blank">
-    <img src="https://svgshare.com/i/Ly6" width="100%" alt="Logo da He4rtDevs">
+    <img src="./.github/id_4noobs_slogan.svg" width="100%" alt="Logo da He4rtDevs">
   </a>
 </p>
 <h1 align="center">He4rtLabs - Série 4Noobs</h1>
