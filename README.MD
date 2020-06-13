@@ -43,6 +43,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | vim4noobs | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
 | Markdown4Noobs | É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Daniel Moura](https://twitter.com/dsm_uix) - [Gustavo Lins](https://github.com/freazesss) - [Eduardo Cabral](https://github.com/ferroeduardo) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/markdown4noobs) |
 | Zsh4Noobs | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
+| wm4noobs | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/i386angel) | [Clique aqui ➡️](https://github.com/i386angel/wm4noobs)
 
 ### 💻 Sistemas operacionais
 
