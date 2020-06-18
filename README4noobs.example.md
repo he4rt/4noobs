@@ -2,19 +2,20 @@
 
 <p align="center">
   <a href="link-repositorio">
-    <img src="https://svgshare.com/i/Ly6.svg" alt="Logo" width="350" height="300">
+    <img src="./.github/id_4noobs_slogan.svg" alt="Logo" width="350" height="300">
   </a>
 
   <h2 align="center">Título do seu 4noobs</h2>
-<p align="center">
- 	<br />
+  <p align="center">
+    <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-	<a href="link-para-abrir-issue">Report Bug</a>
+    <a href="link-para-abrir-issue">Report Bug</a>
     ·
     <a href="link-para-abrir-issue">Request Feature</a>
-    </p>
+  </p>
+</p>
     
  <!-- ABOUT THE PROJECT -->
 
