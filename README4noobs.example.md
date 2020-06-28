@@ -1,11 +1,18 @@
 <!-- Logo 4noobs -->
 
 <p align="center">
-  <a href="link-repositorio">
-    <img src="./.github/id_4noobs_slogan.svg" alt="Logo" width="350" height="300">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/header-4noobs.svg">
   </a>
+</p>
 
+<!-- Title -->
+
+<p align="center">
   <h2 align="center">Título do seu 4noobs</h2>
+
+  <h1 align="center"><img src="./.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
+  
   <p align="center">
     <br />
     <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
@@ -58,5 +65,7 @@ são **extremamente apreciadas**
 ---
 
 <p align="center">
-  <strong>Da comunidade para a comunidade. 💜</strong>
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/footer-4noobs.svg" width="380">
+  </a>
 </p>
