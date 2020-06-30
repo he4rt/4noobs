@@ -27,12 +27,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Javascript | Tutorial de Javascript para iniciantes na linguagem. | [Thiago Della Noce](https://github.com/ThiagoDellaNoce) | [Clique aqui ➡️](https://github.com/ThiagoDellaNoce/javascript4noobs) |
 | PHP | Tutorial de PHP para iniciantes na linguagem. | [Daniel Reis](https://github.com/DanielHe4rt) - [Daniel Rodrigues](https://github.com/geekcom) |  [Clique aqui ➡️](https://github.com/DanielHe4rt/php4noobs) |
 | Markdown | É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Daniel Moura](https://twitter.com/dsm_uix) - [Gustavo Lins](https://github.com/freazesss) - [Eduardo Cabral](https://github.com/ferroeduardo) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/markdown4noobs) |
-| CSS | Tutorial de CSS para iniciantes na linguagem. | [Matheus Henrique](https://github.com/DanielHe4rt) - [Guilherme Vieira](https://github.com/gitlherme) - [Gabriel Angelo](https://github.com/morninn) - [Igor Wessel](https://github.com/igorwessel)| <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| NodeJS | Tutorial de Node para iniciantes na linguagem. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Rust  | Tutorial de Rust para iniciantes na linguagem. | [Renan Felipe](https://github.com/orenan) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Python | Tutorial de Python para iniciantes na linguagem. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Batch | Tutorial de Batch para iniciantes na linguagem. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Caio Almeida](https://github.com/gaviusking/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| R | Tutorial de Batch para iniciantes na linguagem. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/SaLandini) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| CSS | Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade. | [Matheus Henrique](https://github.com/DanielHe4rt) - [Guilherme Vieira](https://github.com/gitlherme) - [Gabriel Angelo](https://github.com/morninn) - [Igor Wessel](https://github.com/igorwessel)| <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Rust  | Aprenda mais uma linguagem funcional e pense diferente do padrão. | [Renan Felipe](https://github.com/orenan) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Caio Almeida](https://github.com/gaviusking/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| R | Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/SaLandini) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ### 📦 Frameworks
 
@@ -41,9 +41,9 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Vue | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
 | Rails | Introdução ao Ruby on Rails. | [Ederson Ferreira](https://github.com/edersonferreira/) | [Clique aqui ➡️](https://github.com/edersonferreira/rails4noobs) |
 | NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/gaviusking/) | [Clique aqui ➡️](https://github.com/gaviusking/NextJs4noobs) |
-| Flask | Introdução ao Flask | [Gustavo Lins](https://github.com/freazesss/) | [Clique aqui ➡️](https://github.com/freazesss/flask4noobs) |
-| React | Introdução ao React | [Anna Campelo](https://github.com/AnnaCampelo) - [Lara Beatriz](https://github.com/larabeatrizms) |  <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Laravel | Introdução ao Laravel | [Mateus Koppe](https://github.com/mateusKoppe) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Flask | Introdução ao framework que tem sua base na linguagem Python. | [Gustavo Lins](https://github.com/freazesss/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
+| React | Aprenda o básico do React para construir aplicações Web de alta qualidade. | [Anna Campelo](https://github.com/AnnaCampelo) - [Lara Beatriz](https://github.com/larabeatrizms) |  <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Laravel | Introdução ao Laravel para melhorar o conhecimento em PHP e sobre o padrão MVC | [Mateus Koppe](https://github.com/mateusKoppe) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ### 🔧 Ferramentas
 
@@ -53,8 +53,8 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Vim | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
 | ZSH | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 | WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/i386angel) | [Clique aqui ➡️](https://github.com/i386angel/wm4noobs)
-| Clean Code | Escreva um código limpo | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Docker | Aprenda a subir containers de forma simples | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ### 💻 Sistemas operacionais
 
@@ -74,9 +74,10 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 ### 🎲 Banco de dados 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| PostgresSQL | Aprenda a fazer querys no postgres | [Ederson Ferreira](https://github.com/edersonferreira) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| MySQL | Aprenda a fazer querys no mysql | [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| GraphQL | Aprenda a fazer querys no graphql | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/gaviusking) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
