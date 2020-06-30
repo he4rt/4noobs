@@ -25,6 +25,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | c4noobs | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
 | ruby4noobs | É um tutorial dedicado ao ensino da Linguagem de programação Ruby, que originou um dos Frameworks Web mais conhecidos, o Ruby on Rails! | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/ruby4noobs) |
 | Javascript4noobs | Tutorial de Javascript para iniciantes na linguagem. | [Thiago Della Noce](https://github.com/ThiagoDellaNoce) | [Clique aqui ➡️](https://github.com/ThiagoDellaNoce/javascript4noobs) |
+| php4noobs | Tutorial para iniciação com a linguagem PHP. |[Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/php4noobs) |
 
 ### 📦 Frameworks
 
