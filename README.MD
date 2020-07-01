@@ -33,6 +33,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/gaviusking/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | R | Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/SaLandini) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ### 📦 Frameworks
 
@@ -60,7 +61,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| Linux | Tutorial De Linux para iniciantes em Programação. | [Francisco Paradella](https://github.com/Happyzinho) - [Lucas Silva](https://github.com/LucasHe4rt) - [Marco Antonio](https://github.com/marcopandolfo) | [Clique aqui ➡️](https://github.com/lucashe4rt/linux4noobs) |
+| Linux | Tutorial De Linux para iniciantes em Programação. | [Francisco Paradella](https://github.com/FranOnRails) - [Lucas Silva](https://github.com/LucasHe4rt) - [Marco Antonio](https://github.com/marcopandolfo) | [Clique aqui ➡️](https://github.com/lucashe4rt/linux4noobs) |
 | Windows | Tutorial De Windows para iniciantes. | [Vitor Souza](https://github.com/vsouzaalmeida) | [Clique aqui ➡️](https://github.com/vsouzaalmeida/windows4noobs) |
 | Arch Linux | Tutorial De Instalação da distribuição ArchLinux. | [Lucas Silva](https://github.com/LucasHe4rt) | [Clique aqui ➡️](https://github.com/LucasHe4rt/ArchLinux4noobs) |
 
@@ -76,7 +77,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/gaviusking) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
