@@ -77,7 +77,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/postgresql4noobs) |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/gaviusking) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
