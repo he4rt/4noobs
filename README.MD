@@ -56,6 +56,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/i686leak) | [Clique aqui ➡️](https://github.com/i686leak/wm4noobs)
 | ZSH | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 | Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 ### 💻 Sistemas operacionais
@@ -77,7 +78,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/postgresql4noobs) |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/gaviusking) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
