@@ -22,13 +22,13 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | C | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
 | C++ | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [Giovane Cardoso](https://github.com/novout) - [Thiago Rezende](https://github.com/thiago-rezende) - [PoorlyDefinedBehaviour](https://github.com/PoorlyDefinedBehaviour) | [Clique aqui ➡️](https://github.com/Novout/cpp4noobs) |
 | Elixir | Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional. | [Alexandre de Souza](https://github.com/aleDsz) | [Clique aqui ➡️](https://github.com/aleDsz/elixir4noobs) |
-| Go | Um guia que irá ajudar a melhorar seus conhecimentos em golang | [Caio Almeida](https://github.com/gaviusking/) | [Clique aqui ➡️](https://github.com/gaviusking/go4noobs#go4noobs) |
+| Go | Um guia que irá ajudar a melhorar seus conhecimentos em golang | [Caio Almeida](https://github.com/caioreix/) | [Clique aqui ➡️](https://github.com/caioreix/go4noobs#go4noobs) |
 | Java | Tutorial De Java para iniciantes na Linguagem. | [Paulo Rievrs Olviera](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/paulorievrs/java4noobs) |
 | Javascript | Tutorial de Javascript para iniciantes na linguagem. | [Thiago Della Noce](https://github.com/ThiagoDellaNoce) | [Clique aqui ➡️](https://github.com/ThiagoDellaNoce/javascript4noobs) |
 | Markdown | É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Daniel Moura](https://twitter.com/dsm_uix) - [Gustavo Lins](https://github.com/freazesss) - [Eduardo Cabral](https://github.com/ferroeduardo) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/markdown4noobs) |
 | PHP | Tutorial de PHP para iniciantes na linguagem. | [Daniel Reis](https://github.com/DanielHe4rt) - [Daniel Rodrigues](https://github.com/geekcom) |  [Clique aqui ➡️](https://github.com/DanielHe4rt/php4noobs) |
 | Ruby | É um tutorial dedicado ao ensino da Linguagem de programação Ruby, que originou um dos Frameworks Web mais conhecidos, o Ruby on Rails! | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/ruby4noobs) |
-| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/gaviusking/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/caioreix/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | CSS | Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade. | [Matheus Henrique](https://github.com/mathh95) - [Guilherme Vieira](https://github.com/gitlherme) - [Gabriel Angelo](https://github.com/morninn) - [Igor Wessel](https://github.com/igorwessel)| <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
@@ -40,7 +40,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/gaviusking/) | [Clique aqui ➡️](https://github.com/gaviusking/NextJs4noobs) |
+| NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/caioreix/) | [Clique aqui ➡️](https://github.com/caioreix/NextJs4noobs) |
 | Rails | Introdução ao Ruby on Rails. | [Ederson Ferreira](https://github.com/edersonferreira/) | [Clique aqui ➡️](https://github.com/edersonferreira/rails4noobs) |
 | Vue | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
 | Flask | Introdução ao micro-framework web que tem sua base na linguagem Python. | [Gustavo Lins](https://github.com/freazesss/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
@@ -79,7 +79,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/postgresql4noobs) |
-| SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/gaviusking) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
