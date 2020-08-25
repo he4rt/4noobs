@@ -87,4 +87,4 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 ---
 
-<p align="center"><strong> Da comunidade para a comunidade.!!!! 💜</strong></p>
+<p align="center"><strong> Da comunidade para a comunidade.KEKW 💜</strong></p>
