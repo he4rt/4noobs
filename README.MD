@@ -11,6 +11,8 @@
   <a href="https://discord.gg/7UJDgBG">Comunidade</a>
   ·
   <a href="https://instagram.com/heartdevs">Instagram</a>
+  ·
+  <a href="https://www.facebook.com/groups/he4rt/">Facebook</a>
 </p>
 
 O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade!
