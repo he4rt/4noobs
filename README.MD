@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://twitter.com/He4rtDevs">Twitter</a>
   · 
-  <a href="https://discord.gg/7UJDgBG">Comunidade</a>
+  <a href="https://discord.gg/he4rt">Comunidade</a>
   ·
   <a href="https://instagram.com/heartdevs">Instagram</a>
   ·
