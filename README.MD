@@ -60,7 +60,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/SaLandini) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">
+| WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/SaLandini) | [Clique aqui ➡️](https://github.com/SaLandini/wsl4noobs)
 
 ### 💻 Sistemas operacionais
 
