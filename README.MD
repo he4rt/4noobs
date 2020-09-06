@@ -56,11 +56,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Git | A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo. | [Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/git4noobs) |
 | Vim | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
 | WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/i686leak) | [Clique aqui ➡️](https://github.com/i686leak/wm4noobs)
+| WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/SaLandini) | [Clique aqui ➡️](https://github.com/SaLandini/wsl4noobs)
 | ZSH | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 | Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/SaLandini) | [Clique aqui ➡️](https://github.com/SaLandini/wsl4noobs)
+
 
 ### 💻 Sistemas operacionais
 
@@ -80,8 +81,8 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 ### 🎲 Banco de dados 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/postgresql4noobs) |
+| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
