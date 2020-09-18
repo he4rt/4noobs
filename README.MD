@@ -69,7 +69,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | Arch Linux | Tutorial De Instalação da distribuição ArchLinux. | [Lucas Silva](https://github.com/LucasHe4rt) | [Clique aqui ➡️](https://github.com/LucasHe4rt/ArchLinux4noobs) |
 | Linux | Tutorial De Linux para iniciantes em Programação. | [Francisco Paradella](https://github.com/FranOnRails) - [Lucas Silva](https://github.com/LucasHe4rt) - [Marco Antonio](https://github.com/marcopandolfo) | [Clique aqui ➡️](https://github.com/lucashe4rt/linux4noobs) |
-| Windows | Tutorial De Windows para iniciantes. | [Vitor Souza](https://github.com/vsouzaalmeida) | [Clique aqui ➡️](https://github.com/vsouzaalmeida/windows4noobs) |
 
 ### 🎨 Design
 
