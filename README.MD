@@ -37,6 +37,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Rust  | Aprenda mais uma linguagem funcional e pense diferente do padrão. | [Renan Felipe](https://github.com/orenan) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 
 ### 📦 Frameworks
 
