@@ -37,6 +37,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Rust  | Aprenda mais uma linguagem funcional e pense diferente do padrão. | [Renan Felipe](https://github.com/orenan) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 
 ### 📦 Frameworks
 
@@ -55,7 +56,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | Git | A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo. | [Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/git4noobs) |
 | Vim | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
-| WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/i686leak) | [Clique aqui ➡️](https://github.com/i686leak/wm4noobs)
+| WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/gerald0x01) | [Clique aqui ➡️](https://github.com/gerald0x01/wm4noobs)
 | WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/SaLandini) | [Clique aqui ➡️](https://github.com/SaLandini/wsl4noobs)
 | ZSH | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 | Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
@@ -69,7 +70,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | Arch Linux | Tutorial De Instalação da distribuição ArchLinux. | [Lucas Silva](https://github.com/LucasHe4rt) | [Clique aqui ➡️](https://github.com/LucasHe4rt/ArchLinux4noobs) |
 | Linux | Tutorial De Linux para iniciantes em Programação. | [Francisco Paradella](https://github.com/FranOnRails) - [Lucas Silva](https://github.com/LucasHe4rt) - [Marco Antonio](https://github.com/marcopandolfo) | [Clique aqui ➡️](https://github.com/lucashe4rt/linux4noobs) |
-| Windows | Tutorial De Windows para iniciantes. | [Vitor Souza](https://github.com/vsouzaalmeida) | [Clique aqui ➡️](https://github.com/vsouzaalmeida/windows4noobs) |
 
 ### 🎨 Design
 
