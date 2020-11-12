@@ -88,7 +88,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 ### ☁️ Cloud
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| Google Cloud Platform | Introdução aos serviços da Google Cloud | [Leonardo Lima](https://github.com/leozz37) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+| Google Cloud Platform | Introdução aos serviços da Google Cloud Platform | [Leonardo Lima](https://github.com/leozz37) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
