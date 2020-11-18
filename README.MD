@@ -87,6 +87,11 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
+### ☁️ Cloud
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Google Cloud Platform | Introdução aos serviços da Google Cloud Platform | [Leonardo Lima](https://github.com/leozz37) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
+
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
 </a>
