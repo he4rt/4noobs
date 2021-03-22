@@ -21,6 +21,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
+| Assembly | Aprenda sobre a linguagem mais interessante para Engenharia Reversa. | [André Luís](https://github.com/andreluispy) | [Clique aqui ➡️](https://github.com/andreluispy/assembly4noobs) |
 | C | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
 | C++ | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [Giovane Cardoso](https://github.com/novout) - [Thiago Rezende](https://github.com/thiago-rezende) - [PoorlyDefinedBehaviour](https://github.com/PoorlyDefinedBehaviour) | [Clique aqui ➡️](https://github.com/Novout/cpp4noobs) |
 | C# | A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível. | [Bruno Dantas de Paiva](https://github.com/DantasB) - [Logikoz](https://github.com/Logikoz) - [Eduardo Cabral](https://github.com/eduardosbcabral) | [Clique aqui ➡️](https://github.com/DantasB/CSharp4Noobs) |
@@ -37,6 +38,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | [Clique aqui ➡️](https://github.com/wendrewdevelop/python4noobs) |  
 | HTML | Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web. | [Lucas](https://github.com/sorenhe4rt) - [Pedro Paulo](https://github.com/ZxPedro) - [Luis Eduardo](https://github.com/Luisnadachi) - [Renato](https://github.com/SrRenato) | [Clique aqui ➡️](https://github.com/sorenhe4rt/HTML4Noobs) |
+
 <!---| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/caioreix/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
