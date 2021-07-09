@@ -22,7 +22,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | Assembly | Aprenda sobre a linguagem mais interessante para Engenharia Reversa. | [André Luís](https://github.com/andreluispy) | [Clique aqui ➡️](https://github.com/andreluispy/assembly4noobs) |
-| Bash | Aprenda a linguagem de script básica do seu sistema UNIX. | [Bruno Dantas](https://github.com/DantasB)  | [Clique aqui ➡️](https://github.com/DantasB/Bash4Noobs) |
+| Bash | Aprenda a linguagem de script básica do seu sistema UNIX. | [Bruno Dantas de Paiva](https://github.com/DantasB)  | [Clique aqui ➡️](https://github.com/DantasB/Bash4Noobs) |
 | C | Entendendo o básico para começar a programar na linguagem C. | [João Paulo Lima](https://github.com/jpaulohe4rt) - [Paulo Rievrs Oliveira](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/jpaulohe4rt/c4noobs) |
 | C++ | Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos. | [Giovane Cardoso](https://github.com/novout) - [Thiago Rezende](https://github.com/thiago-rezende) - [PoorlyDefinedBehaviour](https://github.com/PoorlyDefinedBehaviour) | [Clique aqui ➡️](https://github.com/Novout/cpp4noobs) |
 | C# | A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível. | [Bruno Dantas de Paiva](https://github.com/DantasB) - [Logikoz](https://github.com/Logikoz) - [Eduardo Cabral](https://github.com/eduardosbcabral) | [Clique aqui ➡️](https://github.com/DantasB/CSharp4Noobs) |
