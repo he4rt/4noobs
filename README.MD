@@ -51,7 +51,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Flask | Introdução ao micro-framework web que tem sua base na linguagem Python. | [Gustavo Lins](https://github.com/freazesss/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
 | Laravel | Introdução ao Laravel para melhorar o conhecimento em PHP e sobre o padrão MVC | [Mateus Koppe](https://github.com/mateusKoppe) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | React | Aprenda o básico do React para construir aplicações Web de alta qualidade. | [Anna Campelo](https://github.com/AnnaCampelo) - [Lara Beatriz](https://github.com/larabeatrizms) |  <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
+| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
 
 ### 🔧 Ferramentas
 
