@@ -45,6 +45,11 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NodeJS | Faça API's e integrações com um código limpo e com soluções inteligentes. | [Ana Bastos](https://github.com/anabastos) - [Bruno](https://github.com/PoorlyDefinedBehaviour) - [Hugo](https://github.com/hugogomess) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Rust  | Aprenda mais uma linguagem funcional e pense diferente do padrão. | [Renan Felipe](https://github.com/orenan) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> | -->
 
+# Conteúdos Diversos
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Automação | Aprenda sobre a área mais divertida e que mais cresce no mercado! | [André Luís](https://github.com/andreluispy) | [Clique aqui ➡️](https://github.com/andreluispy/automation4noobs) |
+
 ### 📦 Frameworks
 
 | Nome | Descrição | Contribuidores | Link |
