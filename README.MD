@@ -40,6 +40,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | [Clique aqui ➡️](https://github.com/wendrewdevelop/python4noobs) |  
 | HTML | Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web. | [Lucas](https://github.com/sorenhe4rt) - [Pedro Paulo](https://github.com/ZxPedro) - [Luis Eduardo](https://github.com/Luisnadachi) - [Renato](https://github.com/SrRenato) | [Clique aqui ➡️](https://github.com/sorenhe4rt/HTML4Noobs) |
 | Making Languages | Aprenda a criar Linguagens de Programação | [André Luís](https://github.com/andreluispy) | [Clique aqui ➡️](https://github.com/andreluispy/makinglanguages4noobs)
+| OCaml | Tutorial de OCaml para iniciantes na Linguagem. | [Camilo Cunha de Azevedo](https://github.com/Camilotk) | [Clique aqui ➡️](https://github.com/Camilotk/ocaml4noobs)
 
 <!---| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/caioreix/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
