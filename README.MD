@@ -89,7 +89,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 ### 🎲 Banco de dados 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| PostgresSQL | Aprenda a manipular o banco de dados no PostgresSQL | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/postgresql4noobs) |
 | MySQL | Aprenda a manipular o banco de dados no MySQL | [Paulo Rievrs](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/paulorievrs/mysql4noobs) |
 | MongoDB | Aprenda a manipular o banco de dados noSQL MongoDB | [Carlos Daniel](https://github.com/carlosdnba) | [Clique aqui ➡️](https://github.com/carlosdnba/mongodb4noobs) |
 <!---| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
