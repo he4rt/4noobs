@@ -39,7 +39,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | PHP | Tutorial de PHP para iniciantes na linguagem. | [Daniel Reis](https://github.com/DanielHe4rt) - [Daniel Rodrigues](https://github.com/geekcom) |  [Clique aqui ➡️](https://github.com/DanielHe4rt/php4noobs) |
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | [Clique aqui ➡️](https://github.com/wendrewdevelop/python4noobs)   
 | R | Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/r4noobs) |
-| Ruby | É um tutorial dedicado ao ensino da Linguagem de programação Ruby, que originou um dos Frameworks Web mais conhecidos, o Ruby on Rails! | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/ruby4noobs) |
 | Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 
 
@@ -53,7 +52,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/caioreix/) | [Clique aqui ➡️](https://github.com/caioreix/NextJs4noobs) |
-| Rails | Introdução ao Ruby on Rails. | [Ederson Ferreira](https://github.com/edersonferreira/) | [Clique aqui ➡️](https://github.com/edersonferreira/rails4noobs) |
 | Vue | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
 <!---| Flask | Introdução ao micro-framework web que tem sua base na linguagem Python. | [Gustavo Lins](https://github.com/freazesss/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red">|
 | Laravel | Introdução ao Laravel para melhorar o conhecimento em PHP e sobre o padrão MVC | [Mateus Koppe](https://github.com/mateusKoppe) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
@@ -67,7 +65,6 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Vim | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
 | WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/gerald0x01) | [Clique aqui ➡️](https://github.com/gerald0x01/wm4noobs)
 | WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/wsl4noobs)
-| ZSH | Aprenda e use o shell Zsh junto com o Oh My Zsh, seu gerenciador de configurações | [Ederson Ferreira](https://github.com/edersonferreira) | [Clique aqui ➡️](https://github.com/edersonferreira/zsh4noobs)
 <!---| Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
