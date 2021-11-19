@@ -39,6 +39,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | PHP | Tutorial de PHP para iniciantes na linguagem. | [Daniel Reis](https://github.com/DanielHe4rt) - [Daniel Rodrigues](https://github.com/geekcom) |  [Clique aqui ➡️](https://github.com/DanielHe4rt/php4noobs) |
 | Python | Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações. | [Wendrew Oliveira](https://github.com/wendrewdevelop) - [Matheus Morata](https://github.com/MatheusMorata) | [Clique aqui ➡️](https://github.com/wendrewdevelop/python4noobs)   
 | R | Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/r4noobs) |
+| Rust |Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem. | [Paulo Gabriel Justino Bezerra](https://github.com/pgjbz) | [Clique aqui ➡️](https://github.com/pgjbz/rust4noobs) |
 | Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 
 
