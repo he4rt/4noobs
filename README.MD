@@ -90,6 +90,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | MySQL | Aprenda a manipular o banco de dados no MySQL | [Paulo Rievrs](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/paulorievrs/mysql4noobs) |
 | MongoDB | Aprenda a manipular o banco de dados noSQL MongoDB | [Carlos Daniel](https://github.com/carlosdnba) | [Clique aqui ➡️](https://github.com/carlosdnba/mongodb4noobs) |
+
+### 📡 Microcontroladores
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Arduino | Aprende como programar com arduino| [Henrique Broseghini](https://github.com/HenriqueBros) | [Clique aqui ➡️](https://github.com/HenriqueBros/Arduino4noobs) |
+
 <!---| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
