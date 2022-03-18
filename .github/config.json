@@ -1,16 +1,242 @@
 {
   "courses": [
     {
-      "name": "PHP4noobs",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat sagittis ultricies...",
+      "name": "Assembly4noobs",
+      "description": "Aprenda sobre a linguagem mais interessante para Engenharia Reversa.",
       "category": "Música",
       "author": {
         "name": "Gustavo",
         "username": "kjkGustavo",
         "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
       },
-      "url": "https://github.com/danielhe4rt/php4noobs"
+      "url": "https://github.com/andreluispy/assembly4noobs"
+    },
+    {
+      "name": "Bash4noobs",
+      "description": "Aprenda a linguagem de script básica do seu sistema UNIX.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/DantasB/Bash4Noobs"
+    },
+    {
+      "name": "C4noobs",
+      "description": "Entendendo o básico para começar a programar na linguagem C.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/jpaulohe4rt/c4noobs"
+    },
+    {
+      "name": "C++4noobs",
+      "description": "Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/Novout/cpp4noobs"
+    },
+    {
+      "name": "C#4noobs",
+      "description": "A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/DantasB/CSharp4Noobs"
+    },
+    {
+      "name": "CSS4noobs",
+      "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/mathh95/css4noobs"
+    },
+    {
+      "name": "Dart4noobs",
+      "description": "Tutorial de Dart para iniciantes na Linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/pksasso/dart4noobs"
+    },
+    {
+      "name": "Elixir4noobs",
+      "description": "Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/aleDsz/elixir4noobs"
+    },
+    {
+      "name": "Go4noobs",
+      "description": "Um guia que irá ajudar a melhorar seus conhecimentos em golang",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/caioreix/go4noobs#go4noobs"
+    },
+    {
+      "name": "HTML4noobs",
+      "description": "Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/sorenhe4rt/HTML4Noobs"
+    },
+    {
+      "name": "Java4noobs",
+      "description": "Tutorial De Java para iniciantes na Linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/paulorievrs/java4noobs"
+    },
+    {
+      "name": "Javascript4noobs",
+      "description": "Tutorial de Javascript para iniciantes na linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/ThiagoDellaNoce/javascript4noobs"
+    },
+    {
+      "name": "Markdown4noobs",
+      "description": "É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/jpaulohe4rt/markdown4noobs"
+    },
+    {
+      "name": "Making Languages4noobs",
+      "description": "Aprenda a criar Linguagens de Programação",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/andreluispy/makinglanguages4noobs"
+    },
+    {
+      "name": "OCaml4noobs",
+      "description": "Tutorial de OCaml para iniciantes na Linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/Camilotk/ocaml4noobs"
+    },
+    {
+      "name": "PHP4noobs",
+      "description": "Tutorial de PHP para iniciantes na linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/DanielHe4rt/php4noobs"
+    },
+    {
+      "name": "Python4noobs",
+      "description": "Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/wendrewdevelop/python4noobs"
+    },
+    {
+      "name": "R4noobs",
+      "description": "Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/Salandin/r4noobs"
+    },
+    {
+      "name": "Rust4noobs",
+      "description": "Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/pgjbz/rust4noobs"
+    },
+    {
+      "name": "Typescript4noobs",
+      "description": "Adicione tipagem estática ao seu código Javascript.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/Carolis/typescript4noobs"
+    },
+    {
+      "name": "Haskell4noobs",
+      "description": "Único roadmap de Haskell possível, do noob ao Thanos.",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/Guilherme775/Haskell4Noobs"
     }
   ],
+  "socials": {
+    "twitter": 13,
+    "instagram": 3,
+    "github": 2,
+    "discord": 12
+  },
   "categories": []
 }
