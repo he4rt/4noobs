@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "name": "PHP4noobs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat sagittis ultricies...",
+      "category": "Música",
+      "author": {
+        "name": "Gustavo",
+        "username": "kjkGustavo",
+        "avatar_url": "https://avatars.githubusercontent.com/u/47262260"
+      },
+      "url": "https://github.com/danielhe4rt/php4noobs"
+    }
+  ],
+  "categories": []
+}
