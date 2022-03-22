@@ -1,3 +1,6 @@
+// 20220321215114
+// https://raw.githubusercontent.com/he4rt/4noobs/master/.github/config.json
+
 {
   "courses": [
     {
@@ -94,8 +97,8 @@
       "category": "Linguagens de programação",
       "author": {
         "name": "Caio Almeida",
-        "username": "caioreix/",
-        "avatar_url": "https://github.com/caioreix/.png"
+        "username": "caioreix",
+        "avatar_url": "https://github.com/caioreix.png"
       },
       "url": "https://github.com/danielhe4rt/php4noobs"
     },
