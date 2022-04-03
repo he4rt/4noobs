@@ -14,7 +14,7 @@
     {
       "name": "Bash4noobs",
       "description": "Aprenda a linguagem de script básica do seu sistema UNIX.",
-      "category": "Frameworks",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Bruno Dantas de Paiva ",
         "username": "DantasB",
@@ -25,7 +25,7 @@
     {
       "name": "C4noobs",
       "description": "Entendendo o básico para começar a programar na linguagem C.",
-      "category": "Ferramentas",
+      "category": "Linguagens de programação",
       "author": {
         "name": "João Paulo Lima ",
         "username": "jpaulohe4rt",
@@ -36,7 +36,7 @@
     {
       "name": "C++4noobs",
       "description": "Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos.",
-      "category": "Sistemas operacionais",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Giovane Cardoso ",
         "username": "novout",
@@ -47,7 +47,7 @@
     {
       "name": "C#4noobs",
       "description": "A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível.",
-      "category": "Design",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Bruno Dantas de Paiva ",
         "username": "DantasB",
@@ -58,7 +58,7 @@
     {
       "name": "CSS4noobs",
       "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
-      "category": "Banco de dados",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Matheus Henrique ",
         "username": "mathh95",
@@ -69,6 +69,7 @@
     {
       "name": "Dart4noobs",
       "description": "Tutorial de Dart para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Patrick Sasso",
         "username": "pksasso",
@@ -79,6 +80,7 @@
     {
       "name": "Elixir4noobs",
       "description": "Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Alexandre de Souza",
         "username": "aleDsz",
@@ -89,6 +91,7 @@
     {
       "name": "Go4noobs",
       "description": "Um guia que irá ajudar a melhorar seus conhecimentos em golang",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Caio Almeida",
         "username": "caioreix",
@@ -99,6 +102,7 @@
     {
       "name": "HTML4noobs",
       "description": "Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Lucas ",
         "username": "sorenhe4rt",
@@ -109,6 +113,7 @@
     {
       "name": "Java4noobs",
       "description": "Tutorial De Java para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Paulo Rievrs Olviera",
         "username": "paulorievrs",
@@ -119,6 +124,7 @@
     {
       "name": "Javascript4noobs",
       "description": "Tutorial de Javascript para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Thiago Della Noce",
         "username": "ThiagoDellaNoce",
@@ -129,6 +135,7 @@
     {
       "name": "Markdown4noobs",
       "description": "É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "João Paulo Lima ",
         "username": "jpaulohe4rt",
@@ -139,6 +146,7 @@
     {
       "name": "Making Languages4noobs",
       "description": "Aprenda a criar Linguagens de Programação",
+      "category": "Linguagens de programação",
       "author": {
         "name": "André Luís",
         "username": "andreluispy",
@@ -149,6 +157,7 @@
     {
       "name": "OCaml4noobs",
       "description": "Tutorial de OCaml para iniciantes na Linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Camilo Cunha de Azevedo",
         "username": "Camilotk",
@@ -159,6 +168,7 @@
     {
       "name": "PHP4noobs",
       "description": "Tutorial de PHP para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Daniel Reis ",
         "username": "DanielHe4rt",
@@ -169,6 +179,7 @@
     {
       "name": "Python4noobs",
       "description": "Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Wendrew Oliveira ",
         "username": "wendrewdevelop",
@@ -179,6 +190,7 @@
     {
       "name": "R4noobs",
       "description": "Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Alexandre de Souza ",
         "username": "aleDsz",
@@ -189,6 +201,7 @@
     {
       "name": "Rust4noobs",
       "description": "Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Paulo Gabriel Justino Bezerra",
         "username": "pgjbz",
@@ -199,6 +212,7 @@
     {
       "name": "Typescript4noobs",
       "description": "Adicione tipagem estática ao seu código Javascript.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Carolina Ale ",
         "username": "Carolis",
@@ -209,6 +223,7 @@
     {
       "name": "Haskell4noobs",
       "description": "Único roadmap de Haskell possível, do noob ao Thanos.",
+      "category": "Linguagens de programação",
       "author": {
         "name": "Guilherme dos Reis Meira ",
         "username": "Guilherme775",
@@ -219,7 +234,7 @@
     {
       "name": "NextJS4noobs",
       "description": "Tutorial e documentação de Next.js traduzido em português para iniciantes em programação.",
-      "category": "Linguagens de programação",
+      "category": "Frameworks",
       "author": {
         "name": "Caio Almeida",
         "username": "caioreix",
@@ -241,7 +256,7 @@
     {
       "name": "Flutter4noobs",
       "description": "Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia.",
-      "category": "Ferramentas",
+      "category": "Frameworks",
       "author": {
         "name": "Felipe Ribeiro",
         "username": "feliper2002",
@@ -252,7 +267,7 @@
     {
       "name": "Git4noobs",
       "description": "A ideia é ensinar para os usuários iniciantes que o Git não é nenhum \"monstro\" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.",
-      "category": "Linguagens de programação",
+      "category": "Ferramentas",
       "author": {
         "name": "Daniel Reis",
         "username": "danielhe4rt",
@@ -263,7 +278,7 @@
     {
       "name": "RegEx4noobs",
       "description": "Aprenda o básico de expressões regulares e porque estão presentes em diversos editores de textos.",
-      "category": "Frameworks",
+      "category": "Ferramentas",
       "author": {
         "name": "NiumXp",
         "username": "NiumXp",
@@ -285,7 +300,7 @@
     {
       "name": "WM4noobs",
       "description": "Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux.",
-      "category": "Sistemas operacionais",
+      "category": "Ferramentas",
       "author": {
         "name": "Geraldo",
         "username": "gerald0x01",
@@ -296,7 +311,7 @@
     {
       "name": "WSL24noobs",
       "description": "Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux",
-      "category": "Design",
+      "category": "Ferramentas",
       "author": {
         "name": "Rafael Salandin",
         "username": "Salandin",
@@ -307,7 +322,7 @@
     {
       "name": "Arch Linux4noobs",
       "description": "Tutorial De Instalação da distribuição ArchLinux.",
-      "category": "Linguagens de programação",
+      "category": " Sistemas operacionais",
       "author": {
         "name": "Lucas Silva",
         "username": "LucasHe4rt",
@@ -318,7 +333,7 @@
     {
       "name": "Linux4noobs",
       "description": "Tutorial De Linux para iniciantes em Programação.",
-      "category": "Frameworks",
+      "category": "Sistemas operacionais",
       "author": {
         "name": "Francisco Paradella ",
         "username": "FranOnRails",
@@ -329,7 +344,7 @@
     {
       "name": "UI4noobs",
       "description": "Tutorial tem como objetivo principal apresentar e ensinar o básico do UI Design, de uma maneira completa e acessível para todos.",
-      "category": "Linguagens de programação",
+      "category": "Design",
       "author": {
         "name": "Felipe Gabriel ",
         "username": "FelipeG7K",
@@ -340,11 +355,11 @@
     {
       "name": "UX4noobs",
       "description": "Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos.",
-      "category": "Frameworks",
+      "category": "Design",
       "author": {
         "name": "Felipe Gabriel",
         "username": "FelipeG7K",
-        "avatar_url": "https://twitter.com/FelipeG7K.png"
+        "avatar_url": "https://github.com/setekpro.png"
       },
       "url": "https://github.com/IUX7K/ux4noobs/"
     },
