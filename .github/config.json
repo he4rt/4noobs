@@ -384,6 +384,17 @@
         "avatar_url": "https://github.com/carlosdnba.png"
       },
       "url": "https://github.com/carlosdnba/mongodb4noobs"
+    },
+    {
+      "name": "Drupal4Noobs",
+      "description": "Introdução ao CMS Drupal para quem está começando a utilizar.",
+      "category": "CMS",
+      "author": {
+        "name": "Guilherme Vieira",
+        "username": "gitlherme",
+        "avatar_url": "https://github.com/gitlherme.png"
+      },
+      "url": "https://github.com/gitlherme/drupal4noobs"
     }
   ],
   "socials": {
