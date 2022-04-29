@@ -384,6 +384,17 @@
         "avatar_url": "https://github.com/carlosdnba.png"
       },
       "url": "https://github.com/carlosdnba/mongodb4noobs"
+    },
+    {
+      "name": "Postgresql4Noobs",
+      "description": "Aprenda a manipular o banco de dados no PostgreSQL",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Rômulo Silva",
+        "username": "RomuloHe4rt",
+        "avatar_url": "https://github.com/RomuloHe4rt.png"
+      },
+      "url": "https://github.com/RomuloHe4rt/postgresql4noobs"
     }
   ],
   "socials": {
