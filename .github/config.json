@@ -166,6 +166,17 @@
       "url": "https://github.com/Camilotk/ocaml4noobs"
     },
     {
+      "name": "perl4noobs",
+      "description": "Tutorial de Perl para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "afqkj",
+        "username": "afqkj",
+        "avatar_url": "https://github.com/afqkj.png"
+      },
+      "url": "https://github.com/afqkj/perl4noobs"
+    },
+    {
       "name": "PHP4noobs",
       "description": "Tutorial de PHP para iniciantes na linguagem.",
       "category": "Linguagens de programação",
