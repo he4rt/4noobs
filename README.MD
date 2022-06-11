@@ -55,7 +55,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | NextJS | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação. | [Caio Almeida](https://github.com/caioreix/) | [Clique aqui ➡️](https://github.com/caioreix/NextJs4noobs) |
 | Vue | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout) | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
 | Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
-
+| MyBotHelper | Ensina a utilizar uma "framework" que tem como intuito facilitar ao extremo a criação de bots para o discord usando discord.js | [Marcus Rodrigues](https://github.com/mavinsi) | [Clique aqui ➡️](https://github.com/mavinsi/mybothelper4noobs) |
 
 ### 🔧 Ferramentas
 
