@@ -123,6 +123,7 @@
     },
     {
       "name": "Javascript4noobs",
+      "image": "/assets/Javascript.svg",
       "description": "Tutorial de Javascript para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
