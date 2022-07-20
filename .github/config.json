@@ -123,7 +123,7 @@
     },
     {
       "name": "Javascript4noobs",
-      "image": "/src/public/assets/Javascript.svg",
+      "image": "https://imasters.com.br/javascript/tecnicas-avancadas-com-javascript",
       "description": "Tutorial de Javascript para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
