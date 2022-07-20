@@ -123,7 +123,7 @@
     },
     {
       "name": "Javascript4noobs",
-      "image": "https://raw.githubusercontent.com/MatheusFC2/4noobs/a2e41f653428b05e6b23fcfc8d925dc9234f2d2c/assets/Javascript.svg",
+      "image": "/assets/Javascript.svg",
       "description": "Tutorial de Javascript para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
