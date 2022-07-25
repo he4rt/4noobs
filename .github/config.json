@@ -392,7 +392,7 @@
       "name": "MySQL4noobs",
       "image": "https://www.seekpng.com/png/detail/798-7985471_mysql-logo-mysql.png",
       "description": "Aprenda a manipular o banco de dados no MySQL",
-      "category": "Linguagens de programação",
+      "category": "Banco de Dados",
       "author": {
         "name": "Paulo Rievrs",
         "username": "paulorievrs",
@@ -404,7 +404,7 @@
       "name": "MongoDB4noobs",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png",
       "description": "Aprenda a manipular o banco de dados noSQL MongoDB",
-      "category": "Frameworks",
+      "category": "Banco de Dados",
       "author": {
         "name": "Carlos Daniel",
         "username": "carlosdnba",
@@ -416,7 +416,7 @@
       "name": "Postgresql4Noobs",
       "image": "https://i0.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1",
       "description": "Aprenda a manipular o banco de dados no PostgreSQL",
-      "category": "Linguagens de programação",
+      "category": "Banco de Dados",
       "author": {
         "name": "Rômulo Silva",
         "username": "rohlacanna",
