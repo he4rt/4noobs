@@ -345,6 +345,7 @@
     },
     {
       "name": "Arch Linux4noobs",
+      "image": "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png",
       "description": "Tutorial De Instalação da distribuição ArchLinux.",
       "category": "Sistemas operacionais",
       "author": {
@@ -402,7 +403,7 @@
     },
     {
       "name": "MongoDB4noobs",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png",
+      "image": "http://drcode.com.br/blog/wp-content/uploads/2019/08/mongoDB.png",
       "description": "Aprenda a manipular o banco de dados noSQL MongoDB",
       "category": "Banco de Dados",
       "author": {
@@ -414,7 +415,7 @@
     },
     {
       "name": "Postgresql4Noobs",
-      "image": "https://i0.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1",
+      "image": "https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png",
       "description": "Aprenda a manipular o banco de dados no PostgreSQL",
       "category": "Banco de Dados",
       "author": {
