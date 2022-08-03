@@ -56,6 +56,17 @@
       "url": "https://github.com/DantasB/CSharp4Noobs"
     },
     {
+      "name": "containers4noobs",
+      "description": "O básico que você precisa saber para começar a entender e utilizar a tecnologia de containers em seus projetos. Esse 4noobs fala sobre Containers de modo geral, incluíndo Docker e também Kubernetes.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Ricardo Lüders ",
+        "username": "rluders",
+        "avatar_url": "https://github.com/rluders.png"
+      },
+      "url": "https://github.com/rluders/containers4noobs"
+    },
+    {
       "name": "CSS4noobs",
       "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
       "category": "Linguagens de programação",
