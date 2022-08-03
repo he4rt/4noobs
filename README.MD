@@ -61,6 +61,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
+| Containers | O básico que você precisa saber para começar a entender e utilizar a tecnologia de containers em seus projetos. Esse 4noobs fala sobre Containers de modo geral, incluíndo Docker e também Kubernetes. | [Ricardo Lüders](https://github.com/rluders) | [Clique aqui ➡️](https://github.com/rluders/containers4noobs) |
 | Git | A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo. | [Daniel Reis](https://github.com/danielhe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/git4noobs) |
 | RegEx | Aprenda o básico de expressões regulares e porque estão presentes em diversos editores de textos. | [NiumXp](https://github.com/NiumXp) | [Clique aqui ➡️](https://github.com/NiumXp/regex4noobs) |
 | Vim | Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito! | [Luan Mateus](https://github.com/hellowluan) | [Clique aqui ➡️](https://github.com/hellowluan/vim4noobs) |
