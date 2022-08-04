@@ -2,6 +2,7 @@
   "courses": [
     {
       "name": "Assembly4noobs",
+      "image" : "",
       "description": "Aprenda sobre a linguagem mais interessante para Engenharia Reversa.",
       "category": "Linguagens de programação",
       "author": {
