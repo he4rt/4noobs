@@ -61,6 +61,7 @@
     },
     {
       "name": "CSS4noobs",
+      "tags": ["Front-End" , "Estilo"],
       "image": "https://cdn.slidesharecdn.com/ss_thumbnails/css3-151017183412-lva1-app6891-thumbnail-4.jpg?cb=1445106902",
       "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
       "category": "Linguagens de programação",
