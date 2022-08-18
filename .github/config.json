@@ -210,6 +210,17 @@
       "url": "https://github.com/pgjbz/rust4noobs"
     },
     {
+      "name": "Ruby4noobs",
+      "description": "Introdução a linguagem de programação Ruby, entendendo o básico para começar a programar na linguagem Ruby.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Kaique Linhares Sousa",
+        "username": "rinyaresu",
+        "avatar_url": "https://github.com/rinyaresu.png"
+      },
+      "url": "https://github.com/rinyaresu/ruby4noobs"
+    },
+    {
       "name": "Typescript4noobs",
       "description": "Adicione tipagem estática ao seu código Javascript.",
       "category": "Linguagens de programação",
