@@ -105,7 +105,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 ### 📌 Paradigmas de programação
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| POO | Aprenda o básico sobre programação orientada a objetos | [Mariana de Carvalho](https://github.com/detonagirl) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
+| POO | Aprenda o básico sobre programação orientada a objetos | [Otávio de Carvalho](https://github.com/atomotavio) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
