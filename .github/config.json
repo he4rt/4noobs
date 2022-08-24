@@ -276,6 +276,17 @@
       "url": "https://github.com/feliper2002/flutter4noobs"
     },
     {
+      "name": "Django4noobs",
+      "description": "Tutorial básico sobre o framework Django. Aprenda sobre configurações de projeto, módulos, arquitetura MTV, Models, Views e Templates.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Bruno Vieira",
+        "username": "brunovhk",
+        "avatar_url": "https://github.com/brunovhk.png"
+      },
+      "url": "https://github.com/brunovhk/django4noobs"
+    },
+    {
       "name": "Git4noobs",
       "description": "A ideia é ensinar para os usuários iniciantes que o Git não é nenhum \"monstro\" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.",
       "category": "Ferramentas",
