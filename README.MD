@@ -101,7 +101,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | Google Cloud Platform | Introdução aos serviços da Google Cloud Platform | [Leonardo Lima](https://github.com/leozz37) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
 
-### 💻 Paradigmas de programação
+### 📌 Paradigmas de programação
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | POO | Aprenda o básico sobre programação orientada a objetos | [Mariana de Carvalho](https://github.com/detonagirl) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
