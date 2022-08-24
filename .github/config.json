@@ -13,6 +13,7 @@
     },
     {
       "name": "Bash4noobs",
+      "image": "https://mazer.dev/wp-content/uploads/2021/05/shell-script-logo.jpg",
       "description": "Aprenda a linguagem de script básica do seu sistema UNIX.",
       "category": "Linguagens de programação",
       "author": {
@@ -24,6 +25,7 @@
     },
     {
       "name": "C4noobs",
+      "image": "https://guiatech.net/wp-content/uploads/2019/11/linguagem-c.png",
       "description": "Entendendo o básico para começar a programar na linguagem C.",
       "category": "Linguagens de programação",
       "author": {
@@ -35,6 +37,7 @@
     },
     {
       "name": "C++4noobs",
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rPvSn38T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h2917prj7ldo0ow5x5ih.png",
       "description": "Esse tutorial tem como objetivo principal apresentar e ensinar a linguagem de programação C++ de uma maneira fácil, descomplicada e acessível para todos.",
       "category": "Linguagens de programação",
       "author": {
@@ -46,6 +49,7 @@
     },
     {
       "name": "C#4noobs",
+      "image": "https://becode.com.br/wp-content/uploads/2017/02/Linguagem-de-Programa%C3%A7%C3%A3o-C-2.png",
       "description": "A ideia é passar aos iniciantes conhecimentos básicos da maneira mais simples possível.",
       "category": "Linguagens de programação",
       "author": {
@@ -57,6 +61,8 @@
     },
     {
       "name": "CSS4noobs",
+      "tags" : ["Front-End" , "Estilo"], 
+      "image": "https://cdn.slidesharecdn.com/ss_thumbnails/css3-151017183412-lva1-app6891-thumbnail-4.jpg?cb=1445106902",
       "description": "Ensinar o básico de CSS para você poder aplicar os conhecimentos para estilizar páginas e websites com qualidade.",
       "category": "Linguagens de programação",
       "author": {
@@ -68,6 +74,7 @@
     },
     {
       "name": "Dart4noobs",
+      "image": "http://auditeste.com.br/wp-content/uploads/2020/05/linguagem_dart.jpg",
       "description": "Tutorial de Dart para iniciantes na Linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -79,6 +86,7 @@
     },
     {
       "name": "Elixir4noobs",
+      "image": "https://miro.medium.com/max/800/0*ahZBVx3Z1eJRXDv1.png",
       "description": "Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional.",
       "category": "Linguagens de programação",
       "author": {
@@ -90,6 +98,7 @@
     },
     {
       "name": "Go4noobs",
+      "image": "https://t.ctcdn.com.br/_7D82Lpy0ZVZRAdHGDVU4Pz0Dgs=/1024x0/smart/filters:format(webp)/i599758.png",
       "description": "Um guia que irá ajudar a melhorar seus conhecimentos em golang",
       "category": "Linguagens de programação",
       "author": {
@@ -101,6 +110,7 @@
     },
     {
       "name": "HTML4noobs",
+      "image": "http://rafaelcintralopes.com.br/wp-content/uploads/2018/01/HTML55.png",
       "description": "Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web.",
       "category": "Linguagens de programação",
       "author": {
@@ -112,6 +122,7 @@
     },
     {
       "name": "Java4noobs",
+      "image": "https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png",
       "description": "Tutorial De Java para iniciantes na Linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -123,6 +134,7 @@
     },
     {
       "name": "Javascript4noobs",
+      "image": "https://static.imasters.com.br/wp-content/uploads/2019/06/06110736/JavaScript3.jpg",
       "description": "Tutorial de Javascript para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -134,6 +146,7 @@
     },
     {
       "name": "Markdown4noobs",
+      "image": "https://markdown.net.br/assets/img/markdown.jpg",
       "description": "É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for.",
       "category": "Linguagens de programação",
       "author": {
@@ -156,6 +169,7 @@
     },
     {
       "name": "OCaml4noobs",
+      "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
       "description": "Tutorial de OCaml para iniciantes na Linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -167,6 +181,7 @@
     },
     {
       "name": "PHP4noobs",
+      "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php.png",
       "description": "Tutorial de PHP para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -178,6 +193,7 @@
     },
     {
       "name": "Python4noobs",
+      "image": "https://cetax.com.br/wp-content/uploads/2017/10/Python-import-chamada-metodo-dinamica.gif",
       "description": "Tutorial de Python para que você aprenda mais sobre uma linguagem que está sempre crescendo e trazendo inovações.",
       "category": "Linguagens de programação",
       "author": {
@@ -189,6 +205,7 @@
     },
     {
       "name": "R4noobs",
+      "image": "https://ibpad.com.br/wp-content/uploads/2017/09/Programacao-R-1.jpg",
       "description": "Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados.",
       "category": "Linguagens de programação",
       "author": {
@@ -200,6 +217,7 @@
     },
     {
       "name": "Rust4noobs",
+      "image": "https://sempreupdate.com.br/wp-content/uploads/2020/08/rust-social-wide.jpg",
       "description": "Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -222,6 +240,7 @@
     },
     {
       "name": "Typescript4noobs",
+      "image": "https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/06/10b88c68-typescript-logo.png",
       "description": "Adicione tipagem estática ao seu código Javascript.",
       "category": "Linguagens de programação",
       "author": {
@@ -244,6 +263,7 @@
     },
     {
       "name": "NextJS4noobs",
+      "image": "https://miro.medium.com/max/1000/0*hXm4rb8UAf5DEhZ2.png",
       "description": "Tutorial e documentação de Next.js traduzido em português para iniciantes em programação.",
       "category": "Frameworks",
       "author": {
@@ -255,6 +275,7 @@
     },
     {
       "name": "Vue4noobs",
+      "image": "https://miro.medium.com/max/900/1*OrjCKmou1jT4It5so5gvOA.jpeg",
       "description": "Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos.",
       "category": "Frameworks",
       "author": {
@@ -266,6 +287,7 @@
     },
     {
       "name": "Flutter4noobs",
+      "image": "https://www.zup.com.br/wp-content/uploads/2021/03/5ce2fde702ef93c1e994d987_flutter.png",
       "description": "Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia.",
       "category": "Frameworks",
       "author": {
@@ -288,6 +310,7 @@
     },
     {
       "name": "Git4noobs",
+      "image": "https://jonathasguerra.com.br/blog/wp-content/uploads/2018/04/git.jpg",
       "description": "A ideia é ensinar para os usuários iniciantes que o Git não é nenhum \"monstro\" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.",
       "category": "Ferramentas",
       "author": {
@@ -299,6 +322,7 @@
     },
     {
       "name": "RegEx4noobs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNF7z9opXFQkFtIw7PFTCTLB9gZXybwGe6w&usqp=CAU",
       "description": "Aprenda o básico de expressões regulares e porque estão presentes em diversos editores de textos.",
       "category": "Ferramentas",
       "author": {
@@ -310,6 +334,7 @@
     },
     {
       "name": "Vim4noobs",
+      "image": "https://u5h3z3d7.stackpathcdn.com/wp-content/uploads/2019/07/vim-diolinux.jpg",
       "description": "Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito!",
       "category": "Ferramentas",
       "author": {
@@ -343,8 +368,9 @@
     },
     {
       "name": "Arch Linux4noobs",
+      "image": "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png",
       "description": "Tutorial De Instalação da distribuição ArchLinux.",
-      "category": " Sistemas operacionais",
+      "category": "Sistemas operacionais",
       "author": {
         "name": "Lucas Silva",
         "username": "LucasHe4rt",
@@ -354,6 +380,7 @@
     },
     {
       "name": "Linux4noobs",
+      "image": "https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg",
       "description": "Tutorial De Linux para iniciantes em Programação.",
       "category": "Sistemas operacionais",
       "author": {
@@ -387,8 +414,9 @@
     },
     {
       "name": "MySQL4noobs",
+      "image": "https://www.seekpng.com/png/detail/798-7985471_mysql-logo-mysql.png",
       "description": "Aprenda a manipular o banco de dados no MySQL",
-      "category": "Linguagens de programação",
+      "category": "Banco de Dados",
       "author": {
         "name": "Paulo Rievrs",
         "username": "paulorievrs",
@@ -398,8 +426,9 @@
     },
     {
       "name": "MongoDB4noobs",
+      "image": "http://drcode.com.br/blog/wp-content/uploads/2019/08/mongoDB.png",
       "description": "Aprenda a manipular o banco de dados noSQL MongoDB",
-      "category": "Frameworks",
+      "category": "Banco de Dados",
       "author": {
         "name": "Carlos Daniel",
         "username": "carlosdnba",
@@ -409,8 +438,9 @@
     },
     {
       "name": "Postgresql4Noobs",
+      "image": "https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png",
       "description": "Aprenda a manipular o banco de dados no PostgreSQL",
-      "category": "Linguagens de programação",
+      "category": "Banco de Dados",
       "author": {
         "name": "Rômulo Silva",
         "username": "rohlacanna",
