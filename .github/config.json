@@ -60,6 +60,18 @@
       "url": "https://github.com/DantasB/CSharp4Noobs"
     },
     {
+      "name": "Crystal4noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg",
+      "description": "Conheça Crystal, uma linguagem para humanos e computadores, com muito potencial e interações semelhantes ao Ruby.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/crystal4noobs"
+    },
+    {
       "name": "CSS4noobs",
       "tags" : ["Front-End" , "Estilo"], 
       "image": "https://cdn.slidesharecdn.com/ss_thumbnails/css3-151017183412-lva1-app6891-thumbnail-4.jpg?cb=1445106902",
