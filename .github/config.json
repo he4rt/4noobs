@@ -2,6 +2,7 @@
   "courses": [
     {
       "name": "Assembly4noobs",
+      "tags" : ["Low Level"], 
       "description": "Aprenda sobre a linguagem mais interessante para Engenharia Reversa.",
       "category": "Linguagens de programação",
       "author": {
@@ -13,6 +14,7 @@
     },
     {
       "name": "Bash4noobs",
+      "tags" : ["Shell"], 
       "image": "https://mazer.dev/wp-content/uploads/2021/05/shell-script-logo.jpg",
       "description": "Aprenda a linguagem de script básica do seu sistema UNIX.",
       "category": "Linguagens de programação",
@@ -86,6 +88,7 @@
     },
     {
       "name": "Elixir4noobs",
+      "tags" : ["Funcional"], 
       "image": "https://miro.medium.com/max/800/0*ahZBVx3Z1eJRXDv1.png",
       "description": "Esse projeto tem como objetivo auxiliar todos os desenvolvedores iniciantes na programação funcional.",
       "category": "Linguagens de programação",
@@ -110,6 +113,7 @@
     },
     {
       "name": "HTML4noobs",
+      "tags" : ["Front-End", "Linguagem de marcação"], 
       "image": "http://rafaelcintralopes.com.br/wp-content/uploads/2018/01/HTML55.png",
       "description": "Aprenda sobre a linguagem de marcação mais utilizada na construção de páginas na Web.",
       "category": "Linguagens de programação",
@@ -146,6 +150,7 @@
     },
     {
       "name": "Markdown4noobs",
+      "tags" : ["Linguagem de marcação"], 
       "image": "https://markdown.net.br/assets/img/markdown.jpg",
       "description": "É ensinar o básico de Markdown para iniciantes para poderem aplicar em diversos projetos dando uma cara melhor ao README.md ou ao que for.",
       "category": "Linguagens de programação",
@@ -169,6 +174,7 @@
     },
     {
       "name": "OCaml4noobs",
+      "tags" : ["Funcional"], 
       "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
       "description": "Tutorial de OCaml para iniciantes na Linguagem.",
       "category": "Linguagens de programação",
@@ -241,6 +247,7 @@
     },
     {
       "name": "Haskell4noobs",
+      "tags" : ["Funcional"], 
       "description": "Único roadmap de Haskell possível, do noob ao Thanos.",
       "category": "Linguagens de programação",
       "author": {
@@ -276,6 +283,7 @@
     },
     {
       "name": "Flutter4noobs",
+      "tags" : ["Mobile"], 
       "image": "https://www.zup.com.br/wp-content/uploads/2021/03/5ce2fde702ef93c1e994d987_flutter.png",
       "description": "Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia.",
       "category": "Frameworks",
@@ -288,6 +296,7 @@
     },
     {
       "name": "Git4noobs",
+      "tags" : ["Sistema de controle de versão", "Github"], 
       "image": "https://jonathasguerra.com.br/blog/wp-content/uploads/2018/04/git.jpg",
       "description": "A ideia é ensinar para os usuários iniciantes que o Git não é nenhum \"monstro\" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.",
       "category": "Ferramentas",
@@ -300,6 +309,7 @@
     },
     {
       "name": "RegEx4noobs",
+      "tags" : ["Expressão Regular"], 
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNF7z9opXFQkFtIw7PFTCTLB9gZXybwGe6w&usqp=CAU",
       "description": "Aprenda o básico de expressões regulares e porque estão presentes em diversos editores de textos.",
       "category": "Ferramentas",
@@ -312,6 +322,7 @@
     },
     {
       "name": "Vim4noobs",
+      "tags" : ["Editor de texto"], 
       "image": "https://u5h3z3d7.stackpathcdn.com/wp-content/uploads/2019/07/vim-diolinux.jpg",
       "description": "Quem nunca entrou no Vim e não deu conta de sair? Pois bem, aqui você irá aprender um pouco a mais do que sair. Não ache que só ler você irá aprender, para realmente aprender precisará de praticar e muito!",
       "category": "Ferramentas",
@@ -324,6 +335,7 @@
     },
     {
       "name": "WM4noobs",
+      "tags" : ["Gerenciador de janelas"], 
       "description": "Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux.",
       "category": "Ferramentas",
       "author": {
@@ -346,6 +358,7 @@
     },
     {
       "name": "Arch Linux4noobs",
+      "tags" : ["Distribuição"], 
       "image": "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png",
       "description": "Tutorial De Instalação da distribuição ArchLinux.",
       "category": "Sistemas operacionais",
@@ -358,6 +371,7 @@
     },
     {
       "name": "Linux4noobs",
+      "tags" : ["Kernel"],
       "image": "https://www.logo.wine/a/logo/Linux/Linux-Logo.wine.svg",
       "description": "Tutorial De Linux para iniciantes em Programação.",
       "category": "Sistemas operacionais",
@@ -381,6 +395,7 @@
     },
     {
       "name": "UX4noobs",
+      "tag": ["Experiência de Usuário"],
       "description": "Esse tutorial tem como objetivo principal apresentar e ensinar o básico do UX Design, de uma maneira completa e acessível para todos.",
       "category": "Design",
       "author": {
