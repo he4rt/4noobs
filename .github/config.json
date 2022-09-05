@@ -447,6 +447,17 @@
         "avatar_url": "https://github.com/rohlacanna.png"
       },
       "url": "https://github.com/rohlacanna/postgresql4noobs"
+    },
+    {
+      "name": "Kotlin4noobs",
+      "description": "Tutorial de Kotlin para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Gustavo Freze",
+        "username": "gustavofreze",
+        "avatar_url": "https://github.com/gustavofreze.png"
+      },
+      "url": "https://github.com/gustavofreze/kotlin4noobs"
     }
   ],
   "socials": {
