@@ -58,7 +58,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Vue     | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout)    | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
 | Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
 | Django  | Tutorial básico sobre o framework Django. Aprenda sobre configurações de projeto, módulos, arquitetura MTV, Models, Views e Templates.                    | [Bruno Vieira](https://github.com/brunovhk)   | [Clique aqui ➡️](https://github.com/brunovhk/django4noobs) |
-
+| React | Tutorial e documentação escrita com o intuito de introduzir iniciantes ao  ReactJS com um conteúdo de simples entendimento. | [Eduardo Santos](https://github.com/EduSantosBrito) - [Gustavo L.](https://github.com/freazesss) - [silascastro](https://github.com/silascastro) - [Lara Beatriz](https://github.com/larabeatrizms) - [Alexander Santos](https://github.com/Ronkiro) - [David Elias](https://github.com/DavidEliass) - [Anna Campelo](https://github.com/AnnaCampelo) - [Rafael Santiago](https://github.com/Santiael) - [Bruno R.Novais](https://github.com/midhatdrops) - [José Ulisses](https://github.com/jos3ss) - [Lucas Rosa](https://github.com/Bluniz) | [Clique aqui ➡️](https://github.com/he4rt/react4noobs) |
 
 ### 🔧 Ferramentas
 
