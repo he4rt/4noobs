@@ -465,6 +465,7 @@
     },
     {
       "name": "Kotlin4noobs",
+      "image": "https://silvrback.s3.amazonaws.com/uploads/0f11ba64-5b55-4e0f-b4fb-4c5faf611c7b/kotlin_800x320.png",
       "description": "Tutorial de Kotlin para iniciantes na linguagem.",
       "category": "Linguagens de programação",
       "author": {
@@ -473,6 +474,18 @@
         "avatar_url": "https://github.com/gustavofreze.png"
       },
       "url": "https://github.com/gustavofreze/kotlin4noobs"
+    },
+    {
+      "name": "Swift4noobs",
+      "image": "https://silvrback.s3.amazonaws.com/uploads/0f11ba64-5b55-4e0f-b4fb-4c5faf611c7b/kotlin_800x320.png",
+      "description": "Introdução a linguagem de programação Swift para quem está começando no desenvolvimento iOS.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "Giovanna Moeller",
+        "username": "giovannamoeller",
+        "avatar_url": "https://github.com/giovannamoeller.png"
+      },
+      "url": "https://github.com/giovannamoeller/swift4noobs"
     }
   ],
   "socials": {
