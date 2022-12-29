@@ -111,6 +111,11 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | POO | Aprenda o básico sobre programação orientada a objetos | [Otávio de Carvalho](https://github.com/atomotavio) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
 
+### 📚 DevOps
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| DevOps | Aprenda o básico sobre DevOps| [Lucas Barcat](https://github.com/lbarcat) | [Clique aqui ➡️](https://github.com/lbarcat/DevOps4noobs) |
+
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
 </a>
