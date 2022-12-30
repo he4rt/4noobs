@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d8dd338b733cacac",
+        "id": "407db5ce57632305",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b6437c927d606a",
+            "id": "8e6285e6bd17c2d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.MD",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.5
   },
   "right": {
     "id": "55663ef4e458695d",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.MD"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3b6437c927d606a",
+  "active": "8e6285e6bd17c2d3",
   "lastOpenFiles": [
+    "linguagens_programacao/Linguagens de programação.md",
+    "4noobs_obsidian/4noobs.md",
     "sistemas_operacioanis/Sistemas Operacionais.md",
     "sistemas_operacioanis/ArchLinux/ArchLinux.md",
     "sistemas_operacioanis/Linux/Linux.md",
@@ -147,8 +157,6 @@
     "ferramentas/GIT/GIT.md",
     "ferramentas/RegEx/RegEx.md",
     "frameworks/Frameworks.md",
-    "frameworks/Vue/Vue.md",
-    "frameworks/Django/Django.md",
-    "frameworks/Flutter/Flutter.md"
+    "frameworks/Vue/Vue.md"
   ]
 }
