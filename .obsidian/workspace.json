@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "df95400de6eeaed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dd338b733cacac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b6437c927d606a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdd5a26696a50ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "079d64757ca492cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3ca2d5cc596983",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "222baadb29a54af5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01abec65af2acd63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55663ef4e458695d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf1ae0080fda588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecbf66aaa4d0a903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d01999854eb8bea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e07f6c595e42e94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "647057555ddb123f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3b6437c927d606a",
+  "lastOpenFiles": [
+    "sistemas_operacioanis/Sistemas Operacionais.md",
+    "sistemas_operacioanis/ArchLinux/ArchLinux.md",
+    "sistemas_operacioanis/Linux/Linux.md",
+    "ferramentas/Ferramentas.md",
+    "ferramentas/GIT/GIT.md",
+    "ferramentas/RegEx/RegEx.md",
+    "frameworks/Frameworks.md",
+    "frameworks/Vue/Vue.md",
+    "frameworks/Django/Django.md",
+    "frameworks/Flutter/Flutter.md"
+  ]
+}
