@@ -110,6 +110,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | POO | Aprenda o básico sobre programação orientada a objetos | [Otávio de Carvalho](https://github.com/atomotavio) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
+| SOLID | Regras para um software de fácil manutenção. | [Daniel Reis](https://github.com/DanielHe4rt) | [Clique aqui ➡️](https://github.com/DanielHe4rt/SOLID4Noobs) |
 
 ### 🤖 Testes
 
