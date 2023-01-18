@@ -42,8 +42,10 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | R | Aprenda um pouco mais sobre essa linguagem mais voltada a análise e visualização de dados. | [Alexandre de Souza](https://github.com/aleDsz) - [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/r4noobs) |
 | Rust |Introdução a linguagem de programação Rust, o objetivo deste repositório é inserir o leitor aos conceitos da linguagem Rust, como o seu modo de gerenciamento de memória e conceitos da linguagem. | [Paulo Gabriel Justino Bezerra](https://github.com/pgjbz) | [Clique aqui ➡️](https://github.com/pgjbz/rust4noobs) |
 | Ruby | Introdução a linguagem de programação Ruby, entendendo o básico para começar a programar na linguagem Ruby. | [Kaique Linhares Sousa](https://github.com/rinyaresu) | [Clique aqui ➡️](https://github.com/rinyaresu/ruby4noobs) |
+| Swift | Introdução a linguagem de programação Swift para quem está começando no desenvolvimento iOS. | [Giovanna Moeller](https://github.com/giovannamoeller)  | [Clique aqui ➡️](https://github.com/giovannamoeller/swift4noobs) |
 | Typescript | Adicione tipagem estática ao seu código Javascript. | [Carolina Ale](https://github.com/Carolis) - [Matheus Pessanha](https://github.com/Mdsp9070) - [Matheus Navarro](https://github.com/navarrotheus) | [Clique aqui ➡️](https://github.com/Carolis/typescript4noobs) |
 | Haskell | Único roadmap de Haskell possível, do noob ao Thanos. | [Guilherme dos Reis Meira](https://github.com/Guilherme775) - [Camilo Cunha de Azevedo](https://github.com/Camilotk) - [Miguel Gomes](https://github.com/miguel-nascimento) - [Matheus de Souza Pessanha](https://github.com/matdsoupe) - [Samuel Durante](https://github.com/samueldurantes) - [Lucas Alexander Floriani](https://github.com/lucasfloriani) | [Clique aqui ➡️](https://github.com/Guilherme775/Haskell4Noobs) |
+| Kotlin | Tutorial de Kotlin para iniciantes na linguagem. | [Gustavo Freze](https://github.com/gustavofreze)  | [Clique aqui ➡️](https://github.com/gustavofreze/kotlin4noobs) |
 
 <!---| Batch | Aprenda a codar no terminal com o esse 4noobs de Batch. | [Caio Almeida](https://github.com/caioreix/) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | GraphQL | Aprenda a fazer querys com qualidade com uma das principais tecnologias do mercado | [Guilherme Ananias](https://github.com/guiananias) - [Vitória Tenório](https://github.com/vitenorio) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
@@ -56,7 +58,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------| ------ |
 | NextJS  | Tutorial e documentação de Next.js traduzido em português para iniciantes em programação.                                                                 | [Caio Almeida](https://github.com/caioreix/)    | [Clique aqui ➡️](https://github.com/caioreix/NextJs4noobs) |
 | Vue     | Esse tutorial tem como objetivo principal apresentar e ensinar o básico do framework Vue em sua versão 2, de uma maneira completa e acessível para todos. | [Giovane Cardoso](https://github.com/Novout)    | [Clique aqui ➡️](https://github.com/Novout/vue4noobs/) |
-| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliper2002) | [Clique aqui ➡️](https://github.com/feliper2002/flutter4noobs) |
+| Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliperfdev) | [Clique aqui ➡️](https://github.com/feliperfdev/flutter4noobs) |
 | Django  | Tutorial básico sobre o framework Django. Aprenda sobre configurações de projeto, módulos, arquitetura MTV, Models, Views e Templates.                    | [Bruno Vieira](https://github.com/brunovhk)   | [Clique aqui ➡️](https://github.com/brunovhk/django4noobs) |
 
 
@@ -94,6 +96,8 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | MySQL | Aprenda a manipular o banco de dados no MySQL | [Paulo Rievrs](https://github.com/paulorievrs) | [Clique aqui ➡️](https://github.com/paulorievrs/mysql4noobs) |
 | MongoDB | Aprenda a manipular o banco de dados noSQL MongoDB | [Carlos Daniel](https://github.com/carlosdnba) | [Clique aqui ➡️](https://github.com/carlosdnba/mongodb4noobs) |
 | PostgreSQL | Aprenda a manipular o banco de dados no PostgreSQL | [Rômulo Silva](https://github.com/RomuloHe4rt) | [Clique aqui ➡️](https://github.com/rohlacanna/postgresql4noobs) |
+| SQL | Aprenda a trabalhar com banco de dados relacionais com SQL. | [Luis Eduardo "Nadachi"](https://github.com/Luisnadachi) | [Clique aqui ➡️](https://github.com/Luisnadachi/SQL4Noobs) |
+
 <!---| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 
@@ -107,6 +111,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | POO | Aprenda o básico sobre programação orientada a objetos | [Otávio de Carvalho](https://github.com/atomotavio) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
+
+### 🤖 Testes
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| QA | Tenha uma introdução completa a estudos sobre testes e qualidade de software. | [Victor Manoel](https://github.com/VictorMPicoli) - [Victor Wildner](https://github.com/vcwild) | [Clique aqui ➡️](https://github.com/vcwild/qa4noobs) |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
