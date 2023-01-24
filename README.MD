@@ -117,6 +117,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | QA | Tenha uma introdução completa a estudos sobre testes e qualidade de software. | [Victor Manoel](https://github.com/VictorMPicoli) - [Victor Wildner](https://github.com/vcwild) | [Clique aqui ➡️](https://github.com/vcwild/qa4noobs) |
 
+### ♿️ Acessibilidade Digital
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Acessibilidade na Web | Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessibilidade na web. | [Gabriel Teixeira](https://github.com/gabrielbsb21) | [Clique aqui ➡️](https://github.com/Gabrielbsb21/acessibilidade4Noobs) |
+
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
 </a>
