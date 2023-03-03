@@ -119,6 +119,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | QA | Tenha uma introdução completa a estudos sobre testes e qualidade de software. | [Victor Manoel](https://github.com/VictorMPicoli) - [Victor Wildner](https://github.com/vcwild) | [Clique aqui ➡️](https://github.com/vcwild/qa4noobs) |
 
+### 🎓 Certificações
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| LPI | Uma guia completo para sua primeira certificação da Linux Professional Institute | [João Lanjoni](https://github.com/lanjoni) | [Clique aqui ➡️](https://github.com/lanjoni/lpi4noobs) |
+
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
 </a>
