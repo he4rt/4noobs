@@ -498,6 +498,18 @@
         "avatar_url": "https://github.com/giovannamoeller.png"
       },
       "url": "https://github.com/giovannamoeller/swift4noobs"
+    },
+    {
+      "name": "LPI4noobs",
+      "image": "https://raw.githubusercontent.com/lanjoni/lpi4noobs/main/content/img/lpi-logo-final.png",
+      "description": "Uma guia completo para sua primeira certificação da Linux Professional Institute.",
+      "category": "Certificações",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/lpi4noobs"
     }
   ],
   "socials": {
