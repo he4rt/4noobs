@@ -123,7 +123,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
-| LPI | Uma guia completo para sua primeira certificação da Linux Professional Institute | [João Lanjoni](https://github.com/lanjoni) | [Clique aqui ➡️](https://github.com/lanjoni/lpi4noobs) |
+| LPI | Uma guia completo para sua primeira certificação da Linux Professional Institute. | [João Lanjoni](https://github.com/lanjoni) | [Clique aqui ➡️](https://github.com/lanjoni/lpi4noobs) |
 
 <a href="https://github.com/he4rt/4noobs/commits/master">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/he4rt/4noobs.svg">
