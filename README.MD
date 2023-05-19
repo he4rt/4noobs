@@ -113,11 +113,12 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | POO | Aprenda o básico sobre programação orientada a objetos | [Otávio de Carvalho](https://github.com/atomotavio) | [Clique aqui ➡️](https://github.com/atomotavio/POO4Noobs) |
 
-### 🤖 Testes
+### 🤖 Diversos
 
 | Nome | Descrição | Contribuidores | Link |
 | ------ | ------ | ------ | ------ |
 | QA | Tenha uma introdução completa a estudos sobre testes e qualidade de software. | [Victor Manoel](https://github.com/VictorMPicoli) - [Victor Wildner](https://github.com/vcwild) | [Clique aqui ➡️](https://github.com/vcwild/qa4noobs) |
+| DevOps | Aprenda e pratique a cultura DevOps | [Lucas Barcat](https://github.com/lbarcat) | [Clique aqui ➡️](https://github.com/lbarcat/DevOps4noobs) |
 
 ### 🎓 Certificações
 
