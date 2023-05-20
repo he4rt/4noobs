@@ -99,6 +99,18 @@
       "url": "https://github.com/pksasso/dart4noobs"
     },
     {
+      "name": "DevOps4noobs",
+      "image": "https://github.com/lbarcat/DevOps4noobs/blob/main/.github/devopslogo.png",
+      "description": "Guia para iniciantes sobre DevOps, união de pessoas, processos e tecnologias para fornecer continuamente valor aos clientes.",
+      "category": "Diversos",
+      "author": {
+        "name": "Lucas Barcat",
+        "username": "lbarcat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50805551?v=4"
+      },
+      "url": "https://github.com/lbarcat/DevOps4noobs"
+    },
+    {
       "name": "Elixir4noobs",
       "tags" : ["Funcional"], 
       "image": "https://miro.medium.com/max/800/0*ahZBVx3Z1eJRXDv1.png",
@@ -185,6 +197,18 @@
       "url": "https://github.com/andreluispy/makinglanguages4noobs"
     },
     {
+      "name": "Obsidian4noobs",
+      "image": "https://avatars.githubusercontent.com/u/65011256?s=200&v=4",
+      "description": "Aplicativo que oferece recursos avançados de organização e conexão de notas utilizando markdown para ajudá-lo a gerenciar seu conhecimento.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Gabi",
+        "username": "gabibits",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78867705?v=4"
+      },
+      "url": "https://github.com/gabibits/obsidian4noobs"
+    },
+    {
       "name": "OCaml4noobs",
       "tags" : ["Funcional"], 
       "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
@@ -220,6 +244,18 @@
         "avatar_url": "https://github.com/wendrewdevelop.png"
       },
       "url": "https://github.com/wendrewdevelop/python4noobs"
+    },
+    {
+      "name": "QA4noobs",
+      "image": "https://github.com/vcwild/qa4noobs/blob/main/.github/qa.gif",
+      "description": "Introduction to Quality Engineering.",
+      "category": "Diversos",
+      "author": {
+        "name": "Victor Wildner",
+        "username": "vcwild",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49621396?v=4"
+      },
+      "url": "https://github.com/vcwild/qa4noobs"
     },
     {
       "name": "R4noobs",
@@ -498,6 +534,18 @@
         "avatar_url": "https://github.com/giovannamoeller.png"
       },
       "url": "https://github.com/giovannamoeller/swift4noobs"
+    },
+    {
+      "name": "LPI4noobs",
+      "image": "https://raw.githubusercontent.com/lanjoni/lpi4noobs/main/content/img/lpi-logo-final.png",
+      "description": "Uma guia completo para sua primeira certificação da Linux Professional Institute.",
+      "category": "Certificações",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/lpi4noobs"
     }
   ],
   "socials": {
