@@ -11,7 +11,7 @@ body:
     id: contact
     attributes:
       label: Detalhes para Contato
-      description: Caso você criou um 4noobs e esteja com dificuldades para publicar ele neste repositório, deixe o seu discord abaixo:
+      description: "Caso você criou um 4noobs e esteja com dificuldades para publicar ele neste repositório, deixe o seu discord abaixo:"
       placeholder: ex. gustavo#0001
     validations:
       required: true
