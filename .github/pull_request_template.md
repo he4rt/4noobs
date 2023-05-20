@@ -15,7 +15,7 @@
 O meu 4noobs possui todos os requisitos abaixo:
 
 - [ ] O meu 4noobs está finalizado
-- [ ] O meu 4noobs segue o [seguinte roadmap](https://github.com/he4rt/4noobs/blob/master/examples/README.md)
+- [ ] O meu 4noobs segue o [seguinte template de roadmap](https://github.com/he4rt/4noobs/blob/master/examples/README.md)
 - [ ] O meu 4noobs não fere nenhum direito autoral
 - [ ] Inseri corretamente o meu 4noobs no README.md sem nenhum conflito
 - [ ] Inseri corretamente o meu 4noobs no arquivo [.github/config.json](https://github.com/he4rt/4noobs/blob/master/.github/config.json)
