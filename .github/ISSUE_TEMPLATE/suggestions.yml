@@ -1,0 +1,10 @@
+name: 💡 Suggestion
+description: Quero sugerir um 4noobs
+labels: ["bug"]
+
+body:
+- type: markdown
+  attributes:
+    value: |
+
+      Caso tenha sugestões para o 4noobs, você pode compartilhá-las no nosso canal #4noobs no [Discord](discord.gg/he4rt). Será muito bem-vindo!
