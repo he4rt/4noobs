@@ -1,0 +1,17 @@
+name: Sugestoes
+description: Entenda como funciona as sugestôes deste repositório
+title: "Sugestão: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Caso tenha sugestões para o 4noobs, você pode compartilhá-las no nosso canal #4noobs no [Discord](discord.gg/he4rt). As sugestôes por este repositório serão ignoradas!
+  - type: input
+    id: contact
+    attributes:
+      label: Detalhes para Contato
+      description: "Caso você criou um 4noobs e esteja com dificuldades para publicar ele neste repositório, deixe o seu discord abaixo:"
+      placeholder: ex. gustavo#0001
+    validations:
+      required: true
