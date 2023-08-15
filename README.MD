@@ -120,6 +120,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | ------ | ------ | ------ | ------ |
 | QA | Tenha uma introdução completa a estudos sobre testes e qualidade de software. | [Victor Manoel](https://github.com/VictorMPicoli) - [Victor Wildner](https://github.com/vcwild) | [Clique aqui ➡️](https://github.com/vcwild/qa4noobs) |
 | DevOps | Aprenda e pratique a cultura DevOps | [Lucas Barcat](https://github.com/lbarcat) | [Clique aqui ➡️](https://github.com/lbarcat/DevOps4noobs) |
+| Acessibilidade na Web | Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessibilidade na web. | [Gabriel Teixeira](https://github.com/gabrielbsb21) | [Clique aqui ➡️](https://github.com/Gabrielbsb21/acessibilidade4Noobs) |
 
 ### 🎓 Certificações
 
