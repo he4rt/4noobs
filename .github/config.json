@@ -317,6 +317,18 @@
       "url": "https://github.com/Guilherme775/Haskell4Noobs"
     },
     {
+      "name": "Angular4Noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg",
+      "description": "Tutorial de Angular para iniciantes na framework.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Gustavo Bizo",
+        "username": "gbiz0",
+        "avatar_url": "https://github.com/gbiz0.png"
+      },
+      "url": "https://github.com/gbiz0/angular4noobs"
+    },
+    {
       "name": "NextJS4noobs",
       "image": "https://miro.medium.com/max/1000/0*hXm4rb8UAf5DEhZ2.png",
       "description": "Tutorial e documentação de Next.js traduzido em português para iniciantes em programação.",
