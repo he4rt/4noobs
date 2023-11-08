@@ -222,6 +222,18 @@
       "url": "https://github.com/Camilotk/ocaml4noobs"
     },
     {
+      "name": "perl4noobs",
+      "image": "https://github.com/scriptprivate/perl4noobs/blob/main/images/Perl.png",
+      "description": "Tutorial de Perl para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "priv",
+        "username": "scriptprivate",
+        "avatar_url": "https://github.com/scriptprivate.png"
+      },
+      "url": "https://github.com/scriptprivate/perl4noobs"
+    },
+    {
       "name": "PHP4noobs",
       "image": "https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php.png",
       "description": "Tutorial de PHP para iniciantes na linguagem.",
