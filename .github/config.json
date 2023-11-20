@@ -62,6 +62,18 @@
       "url": "https://github.com/DantasB/CSharp4Noobs"
     },
     {
+      "name": "Clojure4noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg",
+      "description": "Conheça Clojure, uma linguagem de programação funcional, elegante, baseada em Lisp e parceira da JVM.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/clojure4noobs"
+    },
+    {
       "name": "Crystal4noobs",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg",
       "description": "Conheça Crystal, uma linguagem para humanos e computadores, com muito potencial e interações semelhantes ao Ruby.",
