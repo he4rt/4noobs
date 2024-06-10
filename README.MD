@@ -65,6 +65,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Flutter | Introdução ao framework Flutter. Aprenda sobre Flutter, Widgets, Gerenciamento de Estado e a importância da Orientação a Objetos dentro dessa tecnologia. | [Felipe Ribeiro](https://github.com/feliperfdev) | [Clique aqui ➡️](https://github.com/feliperfdev/flutter4noobs) |
 | Django  | Tutorial básico sobre o framework Django. Aprenda sobre configurações de projeto, módulos, arquitetura MTV, Models, Views e Templates.                    | [Bruno Vieira](https://github.com/brunovhk)   | [Clique aqui ➡️](https://github.com/brunovhk/django4noobs) |
 | Spring  | Conheça o Spring framework e os demais projetos do ecossistema. Aprenda a criar um projeto Spring na prática. | [Edclydson Sousa](https://github.com/edclydson)   | [Clique aqui ➡️](https://github.com/edclydson/Spring4noobs) |
+| NestJS | O NestJS é um poderoso framewrkor que auxilia na construção de aplicações em NodeJS do lado do servidor eficientes e escalonáveis. Este é um guia que irá auxiliar iniciantes a começar a estudar e se aprimorar nesta incrivel ferramenta. | [Victor Geruso Gomes](https://github.com/vgeruso) | [Clique aqui ➡️](https://github.com/vgeruso/nestjs4noobs) |
 
 
 ### 🔧 Ferramentas
