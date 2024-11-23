@@ -1,0 +1,10 @@
+daysUntilStale: 60
+daysUntilClose: 14
+exemptLabels:
+  - 4noobs
+staleLabel: wontfix
+markComment: >
+  Este problema foi marcado automaticamente como obsoleto porque não teve
+  atividade recente. Ele será fechado se nenhuma outra atividade ocorrer. Obrigado
+  por suas contribuições.
+closeComment: false

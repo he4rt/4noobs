@@ -62,6 +62,18 @@
       "url": "https://github.com/DantasB/CSharp4Noobs"
     },
     {
+      "name": "Clojure4noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg",
+      "description": "Conheça Clojure, uma linguagem de programação funcional, elegante, baseada em Lisp e parceira da JVM.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/clojure4noobs"
+    },
+    {
       "name": "Crystal4noobs",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg",
       "description": "Conheça Crystal, uma linguagem para humanos e computadores, com muito potencial e interações semelhantes ao Ruby.",
@@ -97,6 +109,18 @@
         "avatar_url": "https://github.com/pksasso.png"
       },
       "url": "https://github.com/pksasso/dart4noobs"
+    },
+    {
+      "name": "DevOps4noobs",
+      "image": "https://github.com/lbarcat/DevOps4noobs/blob/main/.github/devopslogo.png",
+      "description": "Guia para iniciantes sobre DevOps, união de pessoas, processos e tecnologias para fornecer continuamente valor aos clientes.",
+      "category": "Diversos",
+      "author": {
+        "name": "Lucas Barcat",
+        "username": "lbarcat",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50805551?v=4"
+      },
+      "url": "https://github.com/lbarcat/DevOps4noobs"
     },
     {
       "name": "Elixir4noobs",
@@ -185,6 +209,18 @@
       "url": "https://github.com/andreluispy/makinglanguages4noobs"
     },
     {
+      "name": "Obsidian4noobs",
+      "image": "https://avatars.githubusercontent.com/u/65011256?s=200&v=4",
+      "description": "Aplicativo que oferece recursos avançados de organização e conexão de notas utilizando markdown para ajudá-lo a gerenciar seu conhecimento.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Gabi",
+        "username": "gabibits",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78867705?v=4"
+      },
+      "url": "https://github.com/gabibits/obsidian4noobs"
+    },
+    {
       "name": "OCaml4noobs",
       "tags" : ["Funcional"], 
       "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
@@ -196,6 +232,18 @@
         "avatar_url": "https://github.com/Camilotk.png"
       },
       "url": "https://github.com/Camilotk/ocaml4noobs"
+    },
+    {
+      "name": "perl4noobs",
+      "image": "https://github.com/scriptprivate/perl4noobs/blob/main/images/Perl.png",
+      "description": "Tutorial de Perl para iniciantes na linguagem.",
+      "category": "Linguagens de programação",
+      "author": {
+        "name": "priv",
+        "username": "scriptprivate",
+        "avatar_url": "https://github.com/scriptprivate.png"
+      },
+      "url": "https://github.com/scriptprivate/perl4noobs"
     },
     {
       "name": "PHP4noobs",
@@ -220,6 +268,18 @@
         "avatar_url": "https://github.com/wendrewdevelop.png"
       },
       "url": "https://github.com/wendrewdevelop/python4noobs"
+    },
+    {
+      "name": "QA4noobs",
+      "image": "https://github.com/vcwild/qa4noobs/blob/main/.github/qa.gif",
+      "description": "Introduction to Quality Engineering.",
+      "category": "Diversos",
+      "author": {
+        "name": "Victor Wildner",
+        "username": "vcwild",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49621396?v=4"
+      },
+      "url": "https://github.com/vcwild/qa4noobs"
     },
     {
       "name": "R4noobs",
@@ -279,6 +339,18 @@
         "avatar_url": "https://github.com/Guilherme775.png"
       },
       "url": "https://github.com/Guilherme775/Haskell4Noobs"
+    },
+    {
+      "name": "Angular4Noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg",
+      "description": "Tutorial de Angular para iniciantes na framework.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Gustavo Bizo",
+        "username": "gbiz0",
+        "avatar_url": "https://github.com/gbiz0.png"
+      },
+      "url": "https://github.com/gbiz0/angular4noobs"
     },
     {
       "name": "NextJS4noobs",
@@ -498,6 +570,18 @@
         "avatar_url": "https://github.com/giovannamoeller.png"
       },
       "url": "https://github.com/giovannamoeller/swift4noobs"
+    },
+    {
+      "name": "LPI4noobs",
+      "image": "https://raw.githubusercontent.com/lanjoni/lpi4noobs/main/content/img/lpi-logo-final.png",
+      "description": "Uma guia completo para sua primeira certificação da Linux Professional Institute.",
+      "category": "Certificações",
+      "author": {
+        "name": "João Lanjoni",
+        "username": "lanjoni",
+        "avatar_url": "https://github.com/lanjoni.png"
+      },
+      "url": "https://github.com/lanjoni/lpi4noobs"
     }
   ],
   "socials": {
