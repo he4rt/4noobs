@@ -123,6 +123,18 @@
       "url": "https://github.com/lbarcat/DevOps4noobs"
     },
     {
+      "name": "Docker4noobs",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "description": "Este projeto tem como objetivo introduzir o Docker, uma ferramenta amplamente usada para criação e gerenciamento de contêineres, para iniciantes. Aprenda como instalar, configurar e criar seus próprios contêineres, simplificando a virtualização de aplicações.",
+      "category": "Diversos",
+      "author": {
+        "name": "Julio Cesar",
+        "username": "JulioCesar-X",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122697247?v=4"
+      },
+      "url": "https://github.com/JulioCesar-X/docker4noobs"
+    },
+    {
       "name": "Elixir4noobs",
       "tags" : ["Funcional"], 
       "image": "https://miro.medium.com/max/800/0*ahZBVx3Z1eJRXDv1.png",
