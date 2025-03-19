@@ -536,6 +536,19 @@
       "url": "https://github.com/carlosdnba/mongodb4noobs"
     },
     {
+      "name": "NextJS4noobs",
+      "tags" : ["Nest", "Node", "Backend"], 
+      "image": "https://nestjs.com/logo-small-gradient.d792062c.svg",
+      "description": "Aprenda a ferramenta NestJS.",
+      "category": "Framework Backend NodeJS",
+      "author": {
+        "name": "Victro Geruso Gomes",
+        "username": "vgeruso",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19836490?v=4g"
+      },
+      "url": "https://github.com/vgeruso/nestjs4noobs"
+    },
+    {
       "name": "Postgresql4Noobs",
       "image": "https://kinsta.com/wp-content/uploads/2022/02/postgres-logo.png",
       "description": "Aprenda a manipular o banco de dados no PostgreSQL",
