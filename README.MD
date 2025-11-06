@@ -104,6 +104,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | MongoDB | Aprenda a manipular o banco de dados noSQL MongoDB | [Carlos Daniel](https://github.com/carlosdnba) | [Clique aqui ➡️](https://github.com/carlosdnba/mongodb4noobs) |
 | PostgreSQL | Aprenda a manipular o banco de dados no PostgreSQL | [Rômulo Silva](https://github.com/RomuloHe4rt) | [Clique aqui ➡️](https://github.com/rohlacanna/postgresql4noobs) |
 | SQL | Aprenda a trabalhar com banco de dados relacionais com SQL. | [Luis Eduardo "Nadachi"](https://github.com/Luisnadachi) | [Clique aqui ➡️](https://github.com/Luisnadachi/SQL4Noobs) |
+| Redis | Introdução ao básico do banco chave-valor in-memory mais famoso do mercado. | [Diego Reis "El Yawd"](https://github.com/el-yawd/) | [Clique aqui ➡️](https://github.com/el-yawd/redis-101) |
 
 <!---| MySQL | Aprenda a manipular o banco de dados no MySQL| [Gabriel Vieira](https://github.com/nextur) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | SQL | Aprenda de uma vez por todas a escrever SQL. | [Caio Almeida](https://github.com/caioreix) - [Fernando Karchiloff](https://github.com/FernandoKGA) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
