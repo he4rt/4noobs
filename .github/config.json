@@ -607,6 +607,19 @@
         "avatar_url": "https://github.com/el-yawd.png"
       },
       "url": "https://github.com/el-yawd/redis-101"
+    },
+    {
+      "name": "Selenium4noobs",
+      "tags": ["Testes", "Automação"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg",
+      "description": "Aprenda a usar o Selenium para automação de testes web.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/selenium4noobs"
     }
   ],
   "socials": {
