@@ -613,13 +613,76 @@
       "tags": ["Testes", "Automação"],
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg",
       "description": "Aprenda a usar o Selenium para automação de testes web.",
-      "category": "Ferramentas",
+      "category": "Frameworks de Automação",
       "author": {
         "name": "João Pedro Luz",
         "username": "joaopedro17",
         "avatar_url": "https://github.com/joaopedro17.png"
       },
       "url": "https://github.com/joaopedro17/selenium4noobs"
+    },
+    {
+      "name": "Appium4noobs",
+      "tags": ["Testes", "Automação", "Mobile"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg",
+      "description": "Aprenda a automatizar testes em aplicações mobile nativas, híbridas e web com o Appium.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/appium4noobs"
+    },
+    {
+      "name": "Cypress4noobs",
+      "tags": ["Testes", "Automação", "E2E"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg",
+      "description": "Aprenda a criar testes end-to-end modernos e confiáveis com o Cypress.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/cypress4noobs"
+    },
+    {
+      "name": "Playwright4noobs",
+      "tags": ["Testes", "Automação", "E2E"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg",
+      "description": "Aprenda a automatizar testes web com o Playwright, suportando múltiplos navegadores.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/playwright4noobs"
+    },
+    {
+      "name": "Maestro4noobs",
+      "tags": ["Testes", "Automação", "Mobile"],
+      "description": "Aprenda a criar testes de UI mobile de forma simples e eficiente com o Maestro.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/maestro4noobs"
+    },
+    {
+      "name": "RestAssured4noobs",
+      "tags": ["Testes", "Automação", "API", "Java"],
+      "description": "Aprenda a testar e validar APIs REST em Java utilizando o Rest Assured.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/restassured4noobs"
     }
   ],
   "socials": {
