@@ -221,6 +221,19 @@
       "url": "https://github.com/gabibits/obsidian4noobs"
     },
     {
+      "name": "Docker4noobs",
+      "tags": ["DevOps", "Containers", "Ambientes"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "description": "Aprenda Docker do zero: containers, imagens, Dockerfile, volumes, redes e Docker Compose para ambientes de desenvolvimento mais previsíveis.",
+      "category": "Ferramentas",
+      "author": {
+        "name": "Elves S.",
+        "username": "sirelves",
+        "avatar_url": "https://github.com/sirelves.png"
+      },
+      "url": "https://github.com/sirelves/docker4noobs"
+    },
+    {
       "name": "OCaml4noobs",
       "tags": ["Funcional"],
       "image": "https://www.logo.wine/a/logo/OCaml/OCaml-Logo.wine.svg",
