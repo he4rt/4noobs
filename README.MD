@@ -77,9 +77,9 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | WM | Vire um mestre do Linux usando Window Manager. Você irá maximizar sua produtividade e se tornar um expert no mundo Linux. | [Geraldo](https://github.com/ahnert37) | [Clique aqui ➡️](https://github.com/ahnert37/wm4noobs) |
 | WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/wsl4noobs) |
 | Obsidian | App que oferece recursos avançados de organização e conexão de notas utilizando markdown para ajudá-lo a gerenciar seu conhecimento.  | [Gabi Lima](https://github.com/gabicsl) | [Clique aqui ➡️](https://github.com/gabicsl/obsidian4noobs) |
+| Docker | Aprenda Docker do zero: containers, imagens, Dockerfile, volumes, redes e Docker Compose para ambientes de desenvolvimento mais previsíveis. | [Elves S.](https://github.com/sirelves) | [Clique aqui ➡️](https://github.com/sirelves/docker4noobs) |
 <!---| Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
-| Docker | Aprenda a subir containers de forma simples. | [Thiago Rezende](https://github.com/thiago-rezende) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
+| Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
 
 ### 🧪 Frameworks de Automação
 
