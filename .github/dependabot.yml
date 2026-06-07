@@ -1,0 +1,12 @@
+version: 2
+
+updates:
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    open-pull-requests-limit: 10
+    schedule:
+      interval: 'weekly'
+    cooldown:
+      default-days: 7
+    commit-message:
+      prefix: 'ci'
