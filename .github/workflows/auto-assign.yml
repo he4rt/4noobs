@@ -1,0 +1,24 @@
+name: Auto assign
+
+on:
+  # zizmor: ignore[dangerous-triggers]
+  pull_request_target:
+    branches: [master]
+    types: [opened, reopened]
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  assign:
+    if: github.repository == 'he4rt/4noobs'
+    name: Author
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      pull-requests: write
+    steps:
+      - uses: he4rt/.github/actions/auto-assign@3f3ca844aeab9a0c2d63a5f661284425f1123a8b # main
