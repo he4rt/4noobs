@@ -696,6 +696,17 @@
         "avatar_url": "https://github.com/joaopedro17.png"
       },
       "url": "https://github.com/joaopedro17/restassured4noobs"
+    },
+    {
+      "name": "Como Construir uma Startup",
+      "description": "Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup.",
+      "category": "Diversos",
+      "author": {
+        "name": "Gustavo Simão",
+        "username": "GustavoSimao",
+        "avatar_url": "https://github.com/GustavoSimao.png"
+      },
+      "url": "https://github.com/GustavoSimao/startup4noobs"
     }
   ],
   "socials": {
