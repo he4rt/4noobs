@@ -707,6 +707,19 @@
         "avatar_url": "https://github.com/GustavoSimao.png"
       },
       "url": "https://github.com/GustavoSimao/startup4noobs"
+    },
+    {
+      "name": "IA4noobs",
+      "tags": ["IA", "LLM", "Prompt Engineering", "Embeddings", "RAG", "Agents", "MCP"],
+      "image": "https://api.iconify.design/mdi/brain.svg?color=%237c3aed&width=120&height=120",
+      "description": "Aprenda Inteligência Artificial do zero: fundamentos, tokens e contexto, prompt engineering (few-shot, chain-of-thought), embeddings, RAG, agents, tools, MCP, rodar modelos localmente e como levar aplicações de IA para produção (segurança, avaliação e custos).",
+      "category": "Diversos",
+      "author": {
+        "name": "Elves S.",
+        "username": "sirelves",
+        "avatar_url": "https://github.com/sirelves.png"
+      },
+      "url": "https://github.com/sirelves/ia4noobs"
     }
   ],
   "socials": {
