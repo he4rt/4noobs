@@ -1,0 +1,20 @@
+name: Dependabot auto-merge
+
+on:
+  # zizmor: ignore[dangerous-triggers] — no PR code is executed, only metadata + API calls
+  pull_request_target:
+    branches: [master]
+
+permissions: {}
+
+jobs:
+  automerge:
+    name: Auto-merge Dependabot patch & minor
+    runs-on: ubuntu-latest
+    if: github.repository == 'he4rt/4noobs' && github.event.pull_request.user.login == 'dependabot[bot]'
+    timeout-minutes: 5
+    permissions:
+      contents: write # squash-merge the PR
+      pull-requests: write # approve the PR
+    steps:
+      - uses: he4rt/.github/actions/dependabot-automerge@a22dd1afda63cd7a33308c3965c09064c518b304 # main

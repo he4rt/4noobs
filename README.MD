@@ -143,6 +143,7 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | DevOps | Aprenda e pratique a cultura DevOps | [Lucas Barcat](https://github.com/lbarcat) | [Clique aqui ➡️](https://github.com/lbarcat/DevOps4noobs) |
 | Acessibilidade na Web | Esse Repositório tem como objetivo principal apresentar e ensinar sobre acessibilidade na web. | [Gabriel Teixeira](https://github.com/gabrielbsb21) | [Clique aqui ➡️](https://github.com/Gabrielbsb21/acessibilidade4Noobs) |
 | Como Construir uma Startup | Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup. | [GustavoSimao](https://github.com/GustavoSimao) | [Clique aqui ➡️](https://github.com/GustavoSimao/startup4noobs) |
+| IA | Aprenda Inteligência Artificial do zero: fundamentos, tokens e contexto, prompt engineering (few-shot, chain-of-thought), embeddings, RAG, agents, tools, MCP, rodar modelos localmente e como levar aplicações de IA para produção (segurança, avaliação e custos). | [Elves S.](https://github.com/sirelves) | [Clique aqui ➡️](https://github.com/sirelves/ia4noobs) |
 
 ### 🎓 Certificações
 
