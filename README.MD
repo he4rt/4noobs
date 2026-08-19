@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://heartdevs.com" target="_blank">
-    <img src="./.github/footer_4noobs.svg" width="100%" alt="Logo do 4noobs">
+    <img src="./.github/img/footer_4noobs.svg" width="100%" alt="Logo do 4noobs">
   </a>
 </p>
 <h1 align="center">He4rtLabs - Série 4Noobs</h1>
@@ -169,4 +169,4 @@ Para fazer parte da nossa comunidade, basta participar do nosso [Discord](https:
 
 ---
 
-<p align="center"><strong> Da comunidade para a comunidade. 💜</strong></p>
+<h4 align="center"><strong> Da comunidade para a comunidade 💜</strong></h4>
