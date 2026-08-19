@@ -4,18 +4,35 @@
   </a>
 </p>
 <h1 align="center">He4rtLabs - Série 4Noobs</h1>
-
 <p align="center">
-  <a href="https://twitter.com/He4rtDevs">Twitter</a>
-  · 
-  <a href="https://discord.gg/he4rt">Comunidade</a>
-  ·
-  <a href="https://instagram.com/heartdevs">Instagram</a>
-  ·
-  <a href="https://www.facebook.com/groups/he4rt/">Facebook</a>
+    <a href="https://twitter.com/He4rtDevs" target="_blank"> Twitter</a> ·
+  <a href="https://instagram.com/heartdevs" target="_blank"> Instagram</a> ·
+  <a href="https://www.linkedin.com/company/he4rt/" target="_blank"> LinkedIn</a> ·
+  <a href="https://chat.whatsapp.com/EBKjYxIodpe1x5LLExbTzK" target="_blank"> WhatsApp</a>
 </p>
 
-O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o estudos dos devs iniciantes feitos pela nossa comunidade!
+O objetivo deste repositório é **centralizar tutoriais** desenvolvidos pela nossa comunidade para _pessoas iniciantes em tecnologia_.
+
+Se quiser contribuir escrevendo um tutorial para este repositório:
+1. Pense em um tema que teria ajudado você quando estava começando.
+2. Escreva de forma simples e direta, incluindo exemplos práticos.
+3. Siga as orientações do arquivo `CONTRIBUTING.md` e use o modelo disponível em **Templates/[readme.md](https://github.com/he4rt/4noobs/blob/master/Templates/README.md)**.
+
+Para fazer parte da nossa comunidade, basta participar do nosso [Discord](https://discord.gg/he4rt)!
+
+---
+## Índice
+<!-- caso seja adicionado mais uma categoria é necessário colocar ela aqui também-->
+[1. Linguagens de Programação](#-linguagens-de-programação)<br>
+[2. Frameworks](#-frameworks)<br>
+[3. Frameworks de Automação](#-frameworks-de-automação) <br>
+[4. Ferramentas](#-ferramentas) <br>
+[5. Sistemas Operacionais](#-sistemas-operacionais) <br>
+[6. Design](#-design) <br>
+[7. Banco de Dados](#-banco-de-dados) <br>
+[8. Paradignas de Programação](#-paradigmas-de-programação) <br>
+[9. Diversos](#-diversos) <br>
+
 
 ### 💡 Linguagens de programação
 
@@ -66,6 +83,17 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Spring  | Conheça o Spring framework e os demais projetos do ecossistema. Aprenda a criar um projeto Spring na prática. | [Edclydson Sousa](https://github.com/edclydson)   | [Clique aqui ➡️](https://github.com/edclydson/Spring4noobs) |
 | NestJS | O NestJS é um poderoso framewrkor que auxilia na construção de aplicações em NodeJS do lado do servidor eficientes e escalonáveis. Este é um guia que irá auxiliar iniciantes a começar a estudar e se aprimorar nesta incrivel ferramenta. | [Victor Geruso Gomes](https://github.com/vgeruso) - [João Vitor De Jesus Oliveira](https://github.com/joaovjo) | [Clique aqui ➡️](https://github.com/vgeruso/nestjs4noobs) |
 
+### 🧪 Frameworks de Automação
+
+| Nome | Descrição | Contribuidores | Link |
+| ------ | ------ | ------ | ------ |
+| Selenium | Aprenda a usar o Selenium para automação de testes web. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/selenium4noobs) |
+| Appium | Aprenda a automatizar testes em aplicações mobile nativas, híbridas e web com o Appium. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/appium4noobs) |
+| Cypress | Aprenda a criar testes end-to-end modernos e confiáveis com o Cypress. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/cypress4noobs) |
+| Playwright | Aprenda a automatizar testes web com o Playwright, suportando múltiplos navegadores. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/playwright4noobs) |
+| Maestro | Aprenda a criar testes de UI mobile de forma simples e eficiente com o Maestro. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/maestro4noobs) |
+| Rest Assured | Aprenda a testar e validar APIs REST em Java utilizando o Rest Assured. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/restassured4noobs) |
+
 
 ### 🔧 Ferramentas
 
@@ -78,20 +106,9 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | WSL2 | Utilize Linux e Windows sem precisar de Dual Boot com o Windows Subsystem for Linux | [Rafael Salandin](https://github.com/Salandin) | [Clique aqui ➡️](https://github.com/Salandin/wsl4noobs) |
 | Obsidian | App que oferece recursos avançados de organização e conexão de notas utilizando markdown para ajudá-lo a gerenciar seu conhecimento.  | [Gabi Lima](https://github.com/gabicsl) | [Clique aqui ➡️](https://github.com/gabicsl/obsidian4noobs) |
 | Docker | Aprenda Docker do zero: containers, imagens, Dockerfile, volumes, redes e Docker Compose para ambientes de desenvolvimento mais previsíveis. | [Elves S.](https://github.com/sirelves) | [Clique aqui ➡️](https://github.com/sirelves/docker4noobs) |
+| Devopness | Guia introdutorio de Devopness em portugues: ambientes, credenciais, servidores, deploy, dominio, HTTPS, pipelines, API e MCP | [Elves S.](https://github.com/sirelves) | [Clique aqui ➡️](https://github.com/sirelves/devopness4noobs/) |
 <!---| Clean Code | Aprenda a escrever códigos de forma simplificada e limpa. | [Allan Pires](https://github.com/allan-pires) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |
 | Design Patterns | Aprenda padrões de código para resolução de problemas comuns da forma correta. | [Alexander Santos](https://github.com/ronkiro) | <img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"> |-->
-
-### 🧪 Frameworks de Automação
-
-| Nome | Descrição | Contribuidores | Link |
-| ------ | ------ | ------ | ------ |
-| Selenium | Aprenda a usar o Selenium para automação de testes web. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/selenium4noobs) |
-| Appium | Aprenda a automatizar testes em aplicações mobile nativas, híbridas e web com o Appium. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/appium4noobs) |
-| Cypress | Aprenda a criar testes end-to-end modernos e confiáveis com o Cypress. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/cypress4noobs) |
-| Playwright | Aprenda a automatizar testes web com o Playwright, suportando múltiplos navegadores. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/playwright4noobs) |
-| Maestro | Aprenda a criar testes de UI mobile de forma simples e eficiente com o Maestro. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/maestro4noobs) |
-| Rest Assured | Aprenda a testar e validar APIs REST em Java utilizando o Rest Assured. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/restassured4noobs) |
-
 
 ### 💻 Sistemas operacionais
 

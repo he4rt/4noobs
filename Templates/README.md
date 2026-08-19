@@ -1,8 +1,9 @@
-<!-- Logo 4noobs -->
+<!-- Agora você pode escolher a capa que tem aqui em cima em nossa pasta `capas` dentro de `Templates` aqui no repositório. Entre temas light ou dark mode e também participando da HeartDevs ou da HeartDelas -->
 
+<!-- Header 4noobs -->
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/header_4noobs.svg">
+    <img src="capas/heartdevs-dark.svg" width="100%">
   </a>
 </p>
 
