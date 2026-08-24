@@ -16,7 +16,8 @@ O objetivo deste repositório é **centralizar tutoriais** desenvolvidos pela no
 Se quiser contribuir escrevendo um tutorial para este repositório:
 1. Pense em um tema que teria ajudado você quando estava começando.
 2. Escreva de forma simples e direta, incluindo exemplos práticos.
-3. Siga as orientações do arquivo `CONTRIBUTING.md` e use o modelo disponível em **Templates/[readme.md](https://github.com/he4rt/4noobs/blob/master/Templates/README.md)**.
+3. Siga as orientações do arquivo `CONTRIBUTING.md` e use o modelo disponível em **[Templates](https://github.com/he4rt/4noobs/blob/master/Templates/README.md)**.
+4. Fique à vontade para acessar e utilizar nossos headers e capas com a identidade visual da He4rt em **[Capas](https://github.com/he4rt/4noobs/blob/master/Templates/capas)**
 
 Para fazer parte da nossa comunidade, basta participar do nosso [Discord](https://discord.gg/he4rt)!
 
