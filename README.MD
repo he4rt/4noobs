@@ -66,6 +66,11 @@ O intuito deste repositório é mostrar projetos desenvolvidos para facilitar o 
 | Spring  | Conheça o Spring framework e os demais projetos do ecossistema. Aprenda a criar um projeto Spring na prática. | [Edclydson Sousa](https://github.com/edclydson)   | [Clique aqui ➡️](https://github.com/edclydson/Spring4noobs) |
 | NestJS | O NestJS é um poderoso framewrkor que auxilia na construção de aplicações em NodeJS do lado do servidor eficientes e escalonáveis. Este é um guia que irá auxiliar iniciantes a começar a estudar e se aprimorar nesta incrivel ferramenta. | [Victor Geruso Gomes](https://github.com/vgeruso) - [João Vitor De Jesus Oliveira](https://github.com/joaovjo) | [Clique aqui ➡️](https://github.com/vgeruso/nestjs4noobs) |
 
+### Bibliotecas
+
+| Nome | Descrição | Contribuidores | Link |
+| :--- | :--- | :--- | :---: |
+| **Bootstrap** | Guia prático sobre Bootstrap para criação de interfaces responsivas e componentes de interface. | [Danilo Sam](https://github.com/Danilo-Sam) | [Clique aqui ➡️](https://github.com/Danilo-Sam/bootstrap4noobs) |
 
 ### 🔧 Ferramentas
 
