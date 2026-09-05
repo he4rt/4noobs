@@ -26,6 +26,19 @@
       "url": "https://github.com/DantasB/Bash4Noobs"
     },
     {
+      "name": "Bootstrap4noobs",
+      "tags": ["Front-End", "CSS", "UI Framework"],
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      "description": "Guia prático sobre Bootstrap para criação de interfaces responsivas e componentes de interface.",
+      "category": "Frameworks",
+      "author": {
+        "name": "Danilo de Brito Sampaio",
+        "username": "Danilo-Sam",
+        "avatar_url": "https://github.com/Danilo-Sam.png"
+      },
+      "url": "https://github.com/Danilo-Sam/bootstrap4noobs"
+    },
+    {
       "name": "C4noobs",
       "image": "https://guiatech.net/wp-content/uploads/2019/11/linguagem-c.png",
       "description": "Entendendo o básico para começar a programar na linguagem C.",

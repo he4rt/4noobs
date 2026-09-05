@@ -95,6 +95,11 @@ Para fazer parte da nossa comunidade, basta participar do nosso [Discord](https:
 | Maestro | Aprenda a criar testes de UI mobile de forma simples e eficiente com o Maestro. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/maestro4noobs) |
 | Rest Assured | Aprenda a testar e validar APIs REST em Java utilizando o Rest Assured. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/restassured4noobs) |
 
+### Bibliotecas
+
+| Nome | Descrição | Contribuidores | Link |
+| :--- | :--- | :--- | :---: |
+| **Bootstrap** | Guia prático sobre Bootstrap para criação de interfaces responsivas e componentes de interface. | [Danilo Sam](https://github.com/Danilo-Sam) | [Clique aqui ➡️](https://github.com/Danilo-Sam/bootstrap4noobs) |
 
 ### 🔧 Ferramentas
 
