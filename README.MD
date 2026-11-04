@@ -94,7 +94,7 @@ Para fazer parte da nossa comunidade, basta participar do nosso [Discord](https:
 | Playwright | Aprenda a automatizar testes web com o Playwright, suportando múltiplos navegadores. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/playwright4noobs) |
 | Maestro | Aprenda a criar testes de UI mobile de forma simples e eficiente com o Maestro. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/maestro4noobs) |
 | Rest Assured | Aprenda a testar e validar APIs REST em Java utilizando o Rest Assured. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/restassured4noobs) |
-| e2e | Guia para iniciantes em automação de testes end-to-end com o framework e2e da TesterArmy. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/e2e4noobss) |
+| e2e | Guia para iniciantes em automação de testes end-to-end com o framework e2e da TesterArmy. | [João Pedro Luz](https://github.com/joaopedro17) | [Clique aqui ➡️](https://github.com/joaopedro17/e2e4noobs) |
 
 ### Bibliotecas
 
