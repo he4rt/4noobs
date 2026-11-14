@@ -733,6 +733,18 @@
         "avatar_url": "https://github.com/sirelves.png"
       },
       "url": "https://github.com/sirelves/ia4noobs"
+    },
+    {
+      "name": "System Design4noobs",
+      "tags": ["System Design", "Arquitetura", "Sistemas Distribuídos", "Escalabilidade"],
+      "description": "Aprenda os fundamentos de System Design e como projetar sistemas escaláveis, resilientes e distribuídos.",
+      "category": "Diversos",
+      "author": {
+        "name": "Nathan Mota",
+        "username": "nathanmota-dev",
+        "avatar_url": "https://github.com/nathanmota-dev.png"
+      },
+      "url": "https://github.com/nathanmota-dev/system-design-4noobs"
     }
   ],
   "socials": {
