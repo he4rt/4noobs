@@ -711,6 +711,18 @@
       "url": "https://github.com/joaopedro17/restassured4noobs"
     },
     {
+      "name": "E2e4noobs",
+      "tags": ["Testes", "Automação", "E2E", "TypeScript"],
+      "description": "Guia para iniciantes em automação de testes end-to-end com o framework e2e da TesterArmy.",
+      "category": "Frameworks de Automação",
+      "author": {
+        "name": "João Pedro Luz",
+        "username": "joaopedro17",
+        "avatar_url": "https://github.com/joaopedro17.png"
+      },
+      "url": "https://github.com/joaopedro17/e2e4noobs"
+    },
+    {
       "name": "Como Construir uma Startup",
       "description": "Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup.",
       "category": "Diversos",
